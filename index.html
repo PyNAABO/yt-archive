@@ -45,6 +45,15 @@
     flex-direction: column;
   }
 
+  /* one measure: masthead, frame and colophon share the same edges */
+  .shell > header,
+  .shell > main,
+  .shell > footer {
+    width: 100%;
+    max-width: min(1144px, calc((100svh - 410px) * 16 / 9));
+    margin-inline: auto;
+  }
+
   /* masthead */
   .bar {
     display: flex;
@@ -81,10 +90,8 @@
     justify-content: center;
     padding: clamp(20px, 3.5vh, 44px) 0;
   }
-  /* keep frame + caption inside one screen on short laptops */
   .pick {
     width: 100%;
-    max-width: min(1144px, calc((100svh - 410px) * 16 / 9));
   }
 
   /* the frame */
@@ -257,7 +264,7 @@
 <body>
 <div class="shell">
   <header class="bar">
-    <p class="mark">Watch Later</p>
+    <h1 class="mark">Watch Later</h1>
     <p class="stat" id="stat">Reading the list</p>
   </header>
 
@@ -320,7 +327,7 @@
           ${len ? `<span class="len">${len}</span>` : ''}
         </a>
         <div class="caption">
-          <h1 class="title">${esc(v.title || 'Private or removed video')}</h1>
+          <h2 class="title">${esc(v.title || 'Private or removed video')}</h2>
           <p class="meta">
             ${v.channel ? `<span class="ch">${esc(v.channel)}</span>` : ''}
             ${facts.map((f) => `<span>${esc(f)}</span>`).join('')}
