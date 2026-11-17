@@ -77,8 +77,14 @@
     flex: 1;
     display: flex;
     flex-direction: column;
+    align-items: center;
     justify-content: center;
-    padding: clamp(24px, 5vh, 56px) 0;
+    padding: clamp(20px, 3.5vh, 44px) 0;
+  }
+  /* keep frame + caption inside one screen on short laptops */
+  .pick {
+    width: 100%;
+    max-width: min(1144px, calc((100svh - 360px) * 16 / 9));
   }
 
   /* the frame */
@@ -384,7 +390,7 @@
       }
       stat.innerHTML = '<b>' + list.length + '</b> saved &middot; one random pick';
       if (d.generated_at) {
-        stamp.textContent = '&middot; ' + new Date(d.generated_at).toLocaleDateString('en-GB',
+        stamp.textContent = '\u00b7 ' + new Date(d.generated_at).toLocaleDateString('en-GB',
           { day: 'numeric', month: 'short', year: 'numeric' });
       }
       draw();
