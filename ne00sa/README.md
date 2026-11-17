@@ -12,9 +12,11 @@ Google account for watching. **One file per category** - no duplicate formats.
 |---|---|---|
 | `subscriptions.json` | every channel: @handle, channel id, name, URL, per-channel provenance + flat `handles[]` / `channel_ids[]` arrays | **1872** |
 | `watch_later.json` | Watch Later videos: id, title, channel, duration, views, age, URL | **751** |
-| `liked_videos.json` | Liked videos (same fields) | **1017** |
 | `playlists.json` | all own playlists, each with its videos (same fields) | **57** playlists / 2580 entries |
 | `..\scripts\` | the export scripts, re-runnable (see below) | - |
+
+> Liked videos were exported once (1,017 entries) and removed on 2026-11-17 when likes stopped being tracked.
+> They remain in git history only.
 
 ### Subscriptions: where the numbers come from
 
@@ -45,9 +47,9 @@ The original pasted `.txt` files were merged in and deleted; everything they hel
 
 3. `python ..\scripts\state2cookies.py` -> writes `cookies.txt` (delete it afterwards).
 4. `python ..\scripts\export_playlists.py` -> downloads every playlist into `raw/` (yt-dlp JSON dumps).
-5. `python ..\scripts\finalize_export.py` -> rebuilds the four canonical files from `raw/`
-   (`watch_later.json`, `liked_videos.json`, `playlists.json`). `subscriptions.json` is edited by hand
-   when new channel lists arrive - just add the handles to it.
+5. `python ..\scripts\finalize_export.py` -> rebuilds the canonical files from `raw/`
+   (`watch_later.json`, `playlists.json`). `subscriptions.json` is edited by hand
+   when new channel lists arrive - just add the handles to it. Liked videos are no longer built.
 
 `raw/` is a working directory, not part of the archive - delete it after a successful run.
 

@@ -1,7 +1,8 @@
 """Build the canonical export from raw/ yt-dlp dumps + the merged subscriptions file.
 
 Outputs exactly one file per category (no CSV/TXT twins, no manifest):
-    subscriptions.json  watch_later.json  liked_videos.json  playlists.json  README.md
+    subscriptions.json  watch_later.json  playlists.json  README.md
+Liked videos are not exported.
 """
 
 import json, os, glob, datetime
@@ -75,17 +76,6 @@ if wl:
         indent=1,
     )
     print("watch_later.json:", obj["count"])
-
-ll = load_raw("LL")
-if ll:
-    obj = build(ll, cache, "Liked videos")
-    json.dump(
-        obj,
-        open(os.path.join(ROOT, "liked_videos.json"), "w", encoding="utf-8"),
-        ensure_ascii=False,
-        indent=1,
-    )
-    print("liked_videos.json:", obj["count"])
 
 own = []
 seen_own = set()
