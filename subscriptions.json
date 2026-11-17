@@ -1,0 +1,460 @@
+{
+ "generated_at": "2026-11-17T10:09:39+05:30",
+ "format": "json (canonical)",
+ "account": "@muhammednabhan1763",
+ "channel": "@muhammednabhan1763",
+ "sources": {
+  "scrape 2026-11-17": "40 channels scraped live from /feed/channels (name + @handle + URL + channel id resolved)"
+ },
+ "counts": {
+  "unique_channels": 40,
+  "with_handle": 40,
+  "with_channel_id": 40
+ },
+ "handles": [
+  "aiDotEngineer",
+  "aishwaryasrinivasan",
+  "aliabdaal",
+  "ArenaAIOfficial",
+  "aschmelyun",
+  "awesome-coding",
+  "betterstack",
+  "bonteaudiobooks",
+  "BrototypeMalayalam",
+  "ChromeDevs",
+  "Cinemagic-Malayalam",
+  "CodeMalayalam",
+  "CodeWithHarry",
+  "coding2go",
+  "debugmedia",
+  "Developete",
+  "Fireship",
+  "freecodecamp",
+  "GeeksforGeeksVideos",
+  "GitHub",
+  "GreatStackDev",
+  "InfiniteDesk",
+  "javascriptmastery",
+  "JeffSu",
+  "jesseshowalter",
+  "JustinSung",
+  "KevinPowell",
+  "KodeKloud",
+  "mreflow",
+  "Mrwhosetheboss",
+  "NeuralNine",
+  "piyushgargdev",
+  "pragmaticengineer",
+  "RaghavPal",
+  "rinogodson",
+  "sheryians",
+  "TechWithTim",
+  "TinaHuang1",
+  "truevibecoder",
+  "WebDevSimplified"
+ ],
+ "channel_ids": [
+  "UCLKPca3kwwd-B59HNr-_lvA",
+  "UCzd4ZN716evEjtbJERBMTfg",
+  "UCoOae5nYA7VqaXzerajD0lg",
+  "UCKHVXTuahhhZFhhu_SfTyWA",
+  "UCc07-IBVwRlOsMg2WMdd8Sg",
+  "UCXzw-OdotBUcNA9yhuYQBwA",
+  "UCkVfrGwV-iG9bSsgCbrNPxQ",
+  "UCWfEmKP2I3QkUmUN2dF-h2w",
+  "UCoGHeFY7jE2OB_TJS_87MOA",
+  "UCnUYZLuoy1rq1aVMwx4aTzw",
+  "UCZcPrTIT-wTAmmAeVI5j4nA",
+  "UC6VX0uvoQekFE5Lc6vVywdw",
+  "UCeVMnSShP_Iviwkknt83cww",
+  "UCGpoeEhUBQBaaKZ_a8HB67Q",
+  "UCO3nZaqZVqoGKld5nGeRVJw",
+  "UCPhyA52nHlW3L6r-7sDfcyg",
+  "UCsBjURrPoezykLs9EqgamOA",
+  "UC8butISFwT-Wl7EV0hUK0BQ",
+  "UC0RhatS1pyxInC00YKjjBqQ",
+  "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+  "UCkjoHfkLEy7ZT4bA2myJ8xA",
+  "UCK7HWaUqEVS3inwA2RG6Z8Q",
+  "UCmXmlB4-HJytD7wek0Uo97A",
+  "UCwAnu01qlnVg1Ai2AbtTMaA",
+  "UCvBGFeXbBrq3W9_0oNLJREQ",
+  "UC2Zs9v2hL2qZZ7vsAENsg4w",
+  "UCJZv4d5rbIKd4QHMPkcABCw",
+  "UCSWj8mqQCcrcBlXPi4ThRDQ",
+  "UChpleBmo18P08aKCIgti38g",
+  "UCMiJRAwDNSNzuYeN2uWa0pA",
+  "UC8wZnXYK_CGKlBcZp-GxYPA",
+  "UCf9T51_FmMlfhiGpoes0yFA",
+  "UCPbwhExawYrn9xxI21TFfyw",
+  "UCTt7pyY-o0eltq14glaG5dg",
+  "UCAyOjRasP8NALupjKj0S86w",
+  "UCc7gpqMnnOSbU_F2-5MVVZw",
+  "UC4JX40jDee_tINbkjycV4Sg",
+  "UC2UXDak6o7rBm23k3Vv5dww",
+  "UCvwyIayv568haS5MxAD15Uw",
+  "UCFbNIlppjAuEX4znoulh0Cw"
+ ],
+ "channels": [
+  {
+   "handle": "aiDotEngineer",
+   "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+   "name": "AI Engineer",
+   "url": "https://www.youtube.com/@aiDotEngineer",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "aishwaryasrinivasan",
+   "channel_id": "UCzd4ZN716evEjtbJERBMTfg",
+   "name": "Aishwarya Srinivasan",
+   "url": "https://www.youtube.com/@aishwaryasrinivasan",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "aliabdaal",
+   "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
+   "name": "Ali Abdaal",
+   "url": "https://www.youtube.com/@aliabdaal",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "ArenaAIOfficial",
+   "channel_id": "UCKHVXTuahhhZFhhu_SfTyWA",
+   "name": "Arena",
+   "url": "https://www.youtube.com/@ArenaAIOfficial",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "aschmelyun",
+   "channel_id": "UCc07-IBVwRlOsMg2WMdd8Sg",
+   "name": "Andrew Schmelyun",
+   "url": "https://www.youtube.com/@aschmelyun",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "awesome-coding",
+   "channel_id": "UCXzw-OdotBUcNA9yhuYQBwA",
+   "name": "Awesome",
+   "url": "https://www.youtube.com/@awesome-coding",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "betterstack",
+   "channel_id": "UCkVfrGwV-iG9bSsgCbrNPxQ",
+   "name": "Better Stack",
+   "url": "https://www.youtube.com/@betterstack",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "bonteaudiobooks",
+   "channel_id": "UCWfEmKP2I3QkUmUN2dF-h2w",
+   "name": "Bonte Audiobooks",
+   "url": "https://www.youtube.com/@bonteaudiobooks",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "BrototypeMalayalam",
+   "channel_id": "UCoGHeFY7jE2OB_TJS_87MOA",
+   "name": "Brototype",
+   "url": "https://www.youtube.com/@BrototypeMalayalam",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "ChromeDevs",
+   "channel_id": "UCnUYZLuoy1rq1aVMwx4aTzw",
+   "name": "Chrome for Developers",
+   "url": "https://www.youtube.com/@ChromeDevs",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "Cinemagic-Malayalam",
+   "channel_id": "UCZcPrTIT-wTAmmAeVI5j4nA",
+   "name": "Cinemagic",
+   "url": "https://www.youtube.com/@Cinemagic-Malayalam",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "CodeMalayalam",
+   "channel_id": "UC6VX0uvoQekFE5Lc6vVywdw",
+   "name": "Code Malayalam",
+   "url": "https://www.youtube.com/@CodeMalayalam",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "CodeWithHarry",
+   "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+   "name": "CodeWithHarry",
+   "url": "https://www.youtube.com/@CodeWithHarry",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "coding2go",
+   "channel_id": "UCGpoeEhUBQBaaKZ_a8HB67Q",
+   "name": "Coding2GO",
+   "url": "https://www.youtube.com/@coding2go",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "debugmedia",
+   "channel_id": "UCO3nZaqZVqoGKld5nGeRVJw",
+   "name": "Debug Media",
+   "url": "https://www.youtube.com/@debugmedia",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "Developete",
+   "channel_id": "UCPhyA52nHlW3L6r-7sDfcyg",
+   "name": "Developete",
+   "url": "https://www.youtube.com/@Developete",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "Fireship",
+   "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+   "name": "Fireship",
+   "url": "https://www.youtube.com/@Fireship",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "freecodecamp",
+   "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+   "name": "freeCodeCamp.org",
+   "url": "https://www.youtube.com/@freecodecamp",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "GeeksforGeeksVideos",
+   "channel_id": "UC0RhatS1pyxInC00YKjjBqQ",
+   "name": "GeeksforGeeks",
+   "url": "https://www.youtube.com/@GeeksforGeeksVideos",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "GitHub",
+   "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+   "name": "GitHub",
+   "url": "https://www.youtube.com/@GitHub",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "GreatStackDev",
+   "channel_id": "UCkjoHfkLEy7ZT4bA2myJ8xA",
+   "name": "GreatStack",
+   "url": "https://www.youtube.com/@GreatStackDev",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "InfiniteDesk",
+   "channel_id": "UCK7HWaUqEVS3inwA2RG6Z8Q",
+   "name": "Infinite Desk",
+   "url": "https://www.youtube.com/@InfiniteDesk",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "javascriptmastery",
+   "channel_id": "UCmXmlB4-HJytD7wek0Uo97A",
+   "name": "JavaScript Mastery",
+   "url": "https://www.youtube.com/@javascriptmastery",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "JeffSu",
+   "channel_id": "UCwAnu01qlnVg1Ai2AbtTMaA",
+   "name": "Jeff Su",
+   "url": "https://www.youtube.com/@JeffSu",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "jesseshowalter",
+   "channel_id": "UCvBGFeXbBrq3W9_0oNLJREQ",
+   "name": "Jesse Showalter",
+   "url": "https://www.youtube.com/@jesseshowalter",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "JustinSung",
+   "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
+   "name": "Justin Sung",
+   "url": "https://www.youtube.com/@JustinSung",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "KevinPowell",
+   "channel_id": "UCJZv4d5rbIKd4QHMPkcABCw",
+   "name": "Kevin Powell",
+   "url": "https://www.youtube.com/@KevinPowell",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "KodeKloud",
+   "channel_id": "UCSWj8mqQCcrcBlXPi4ThRDQ",
+   "name": "KodeKloud",
+   "url": "https://www.youtube.com/@KodeKloud",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "mreflow",
+   "channel_id": "UChpleBmo18P08aKCIgti38g",
+   "name": "Matt Wolfe",
+   "url": "https://www.youtube.com/@mreflow",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "Mrwhosetheboss",
+   "channel_id": "UCMiJRAwDNSNzuYeN2uWa0pA",
+   "name": "Mrwhosetheboss",
+   "url": "https://www.youtube.com/@Mrwhosetheboss",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "NeuralNine",
+   "channel_id": "UC8wZnXYK_CGKlBcZp-GxYPA",
+   "name": "NeuralNine",
+   "url": "https://www.youtube.com/@NeuralNine",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "piyushgargdev",
+   "channel_id": "UCf9T51_FmMlfhiGpoes0yFA",
+   "name": "Piyush Garg",
+   "url": "https://www.youtube.com/@piyushgargdev",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "pragmaticengineer",
+   "channel_id": "UCPbwhExawYrn9xxI21TFfyw",
+   "name": "The Pragmatic Engineer",
+   "url": "https://www.youtube.com/@pragmaticengineer",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "RaghavPal",
+   "channel_id": "UCTt7pyY-o0eltq14glaG5dg",
+   "name": "Automation Step by Step",
+   "url": "https://www.youtube.com/@RaghavPal",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "rinogodson",
+   "channel_id": "UCAyOjRasP8NALupjKj0S86w",
+   "name": "Rino Godson",
+   "url": "https://www.youtube.com/@rinogodson",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "sheryians",
+   "channel_id": "UCc7gpqMnnOSbU_F2-5MVVZw",
+   "name": "Sheryians Coding School",
+   "url": "https://www.youtube.com/@sheryians",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "TechWithTim",
+   "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+   "name": "Tech With Tim",
+   "url": "https://www.youtube.com/@TechWithTim",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "TinaHuang1",
+   "channel_id": "UC2UXDak6o7rBm23k3Vv5dww",
+   "name": "Tina Huang",
+   "url": "https://www.youtube.com/@TinaHuang1",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "truevibecoder",
+   "channel_id": "UCvwyIayv568haS5MxAD15Uw",
+   "name": "Truevibecoder",
+   "url": "https://www.youtube.com/@truevibecoder",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  },
+  {
+   "handle": "WebDevSimplified",
+   "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+   "name": "Web Dev Simplified",
+   "url": "https://www.youtube.com/@WebDevSimplified",
+   "sources": [
+    "scrape 2026-11-17"
+   ]
+  }
+ ]
+}

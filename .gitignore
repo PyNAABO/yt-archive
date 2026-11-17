@@ -1,0 +1,7 @@
+# working artifacts — never published
+raw/
+cookies.txt
+*.log
+__pycache__/
+*.pyc
+.playwright-mcp/
