@@ -12,7 +12,7 @@ RAW = os.path.join(ROOT, "raw")
 os.makedirs(RAW, exist_ok=True)
 
 index = json.load(open(os.path.join(ROOT, "playlists.json"), encoding="utf-8"))
-ids = ["WL", "LL"] + [p["playlist_id"] for p in index["playlists"]]
+ids = ["WL"] + [p["playlist_id"] for p in index["playlists"]]
 
 for n, pid in enumerate(dict.fromkeys(ids), 1):
     dest = os.path.join(RAW, f"{pid}.json")

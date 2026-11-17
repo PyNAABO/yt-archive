@@ -322,7 +322,7 @@
 
     stage.innerHTML = `
       <article class="pick">
-        <a class="frame" href="${url}" target="_blank" rel="noopener">
+        <a class="frame" href="${url}" target="_blank" rel="noopener" aria-label="Watch on YouTube: ${esc(v.title || 'video')}">
           <img src="https://i.ytimg.com/vi/${id}/hq720.jpg" alt="" width="1280" height="720" decoding="async">
           ${len ? `<span class="len">${len}</span>` : ''}
         </a>
@@ -389,7 +389,7 @@
       return r.json();
     })
     .then((d) => {
-      list = (d.videos || []).filter((v) => v && v.id);
+      list = (d.videos || []).filter((v) => v && v.id && !/^\[(Private|Deleted) video\]$/i.test(v.title || ''));
       if (!list.length) {
         stat.textContent = '0 saved';
         stage.innerHTML = '<div class="note"><p>Nothing saved in Watch Later yet.</p></div>';
