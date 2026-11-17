@@ -31,7 +31,18 @@ Source: <https://github.com/PyNAABO/yt-archive>.
 
 ## Re-running the export
 
-Scripts live in `scripts\` and default to this folder:
+One command does the whole cycle — cookies, download, rebuild, sanity check, commit, push:
+
+```powershell
+.\scripts\refresh.ps1              # this folder (main account)
+.\scripts\refresh.ps1 -SkipPush    # commit only
+```
+
+It turns the saved browser session (`C:\.playwright-mcp\yt_state.json`) into `cookies.txt`, downloads
+every playlist into `raw/`, rebuilds `watch_later.json` and `playlists.json`, **refuses to commit** if
+Watch Later shrank by more than half, deletes the cookies and `raw/`, then commits and pushes.
+
+The individual steps, if you want them by hand:
 
 ```powershell
 $D = '<repo>'
@@ -40,10 +51,20 @@ python "$D\scripts\export_playlists.py"  # downloads every playlist into raw/
 python "$D\scripts\finalize_export.py"   # rebuilds watch_later / playlists
 ```
 
-To re-export the **old** account instead, set `$env:YT_ROOT = "$D\ne00sa"` before running.
+To re-export the **old** account instead, add `-Root "$D\ne00sa"` to `refresh.ps1`, or set
+`$env:YT_ROOT = "$D\ne00sa"` before running the individual scripts.
 
 `export_playlists.py` reads the playlist ids from `playlists.json` in this folder, so an existing export
 is enough to drive a refresh. `subscriptions.json` is not regenerated — re-scrape `/feed/channels` and
 rebuild it if subscriptions changed.
 
 `raw/` is a working directory, not part of the archive — delete it after a successful run.
+
+## What changed since the last export
+
+```powershell
+python scripts\diff_exports.py            # working tree vs last commit
+python scripts\diff_exports.py ne00sa     # working tree vs another folder
+```
+
+Prints added/removed Watch Later entries and per-playlist deltas. Reads only, writes nothing.
