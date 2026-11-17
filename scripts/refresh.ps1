@@ -38,7 +38,12 @@ try {
     }
 
     $before = 0
-    if (Test-Path $wl) { $before = (Get-Content $wl -Raw | ConvertFrom-Json).count }
+    $liveBefore = 0
+    if (Test-Path $wl) {
+        $prev = (Get-Content $wl -Raw | ConvertFrom-Json)
+        $before = $prev.count
+        $liveBefore = @($prev.videos | Where-Object { $_.title -and $_.title -notmatch '^\[(Private|Deleted) video\]$' }).Count
+    }
 
     & $py (Join-Path $PSScriptRoot 'export_playlists.py')
     if ($LASTEXITCODE -ne 0) { throw "export_playlists.py failed ($LASTEXITCODE)" }
@@ -51,7 +56,12 @@ try {
     if ($before -gt 0 -and $after -lt ($before * 0.5)) {
         throw "Watch Later shrank from $before to $after. Nothing committed. Restore with: git checkout -- ."
     }
-    "watch later: $before -> $after"
+    $liveAfter = @((Get-Content $wl -Raw | ConvertFrom-Json).videos |
+        Where-Object { $_.title -and $_.title -notmatch '^\[(Private|Deleted) video\]$' }).Count
+    if ($liveBefore -gt 0 -and $liveAfter -lt ($liveBefore - 20)) {
+        throw "Titled entries dropped from $liveBefore to $liveAfter - the fetch was partial. Nothing committed. Restore with: git checkout -- ."
+    }
+    "watch later: $before -> $after ($liveBefore -> $liveAfter with a title)"
 
     & $py (Join-Path $PSScriptRoot 'diff_exports.py') 2>&1 | Select-Object -First 40
 
