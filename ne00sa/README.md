@@ -15,8 +15,8 @@ Google account for watching. **One file per category** - no duplicate formats.
 | `playlists.json` | all own playlists, each with its videos (same fields) | **57** playlists / 2580 entries |
 | `..\scripts\` | the export scripts, re-runnable (see below) | - |
 
-> Liked videos were exported once (1,017 entries) and removed on 2026-11-17 when likes stopped being tracked.
-> They remain in git history only.
+> Liked videos were exported once (1,017 entries) and removed on 2026-11-17 when likes stopped being
+> tracked. They were also purged from git history, so a fresh clone does not contain them.
 
 ### Subscriptions: where the numbers come from
 
