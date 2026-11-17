@@ -8,6 +8,8 @@ Reads watch_later.json and playlists.json. Writes nothing.
 
 import json, os, subprocess, sys
 
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = os.environ.get("YT_ROOT") or os.path.dirname(
     os.path.dirname(os.path.abspath(__file__))
 )
