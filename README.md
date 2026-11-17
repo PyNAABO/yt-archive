@@ -6,6 +6,11 @@ Local archive of the YouTube channel
 
 **One file per category**, JSON only.
 
+## Live page
+
+<https://pynaabo.github.io/yt-archive/> — picks a random video from `watch_later.json` (Space or → for another).
+Source: <https://github.com/PyNAABO/yt-archive>.
+
 ## Files
 
 | File | Contents | Count |
