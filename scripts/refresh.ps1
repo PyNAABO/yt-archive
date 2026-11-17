@@ -61,6 +61,11 @@ try {
             'committed, not pushed (-SkipPush)'
         } else {
             git push 2>&1 | Select-Object -Last 2
+            if ($LASTEXITCODE -ne 0) {
+                # yt-archive belongs to PyNAABO; gh flips to nabhan-007 and pushes 403
+                gh auth switch --user PyNAABO | Out-Null
+                git push 2>&1 | Select-Object -Last 2
+            }
         }
     } else {
         'no changes'
