@@ -273,7 +273,7 @@
   </main>
 
   <footer class="foot">
-    <span><kbd>space</kbd> or <kbd>&rarr;</kbd> for another</span>
+    <span><kbd>space</kbd> or <kbd>&rarr;</kbd> for another, <kbd>d</kbd> marks watched</span>
     <span><a href="watch_later.json">watch_later.json</a> <span id="stamp"></span></span>
     <span><a href="https://github.com/PyNAABO/yt-archive">source</a></span>
   </footer>
@@ -290,11 +290,17 @@
   const stamp = document.getElementById('stamp');
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const SEEN_KEY = 'watch-later:seen';
+  const DONE_KEY = 'watch-later:done';
   const SEEN_MAX = 20;
   let list = [];
   let lastId = '';
   let seen = [];
+  let done = [];
   try { seen = JSON.parse(localStorage.getItem(SEEN_KEY) || '[]'); } catch { seen = []; }
+  try { done = JSON.parse(localStorage.getItem(DONE_KEY) || '[]'); } catch { done = []; }
+  const save = (key, value) => {
+    try { localStorage.setItem(key, JSON.stringify(value)); } catch { /* private mode */ }
+  };
 
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => (
     { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
@@ -341,6 +347,10 @@
               Watch on YouTube
               <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3.5 10.5 8 6 12.5"/><path d="M10.5 8H2.5"/></svg>
             </a>
+            <button class="btn ghost" id="watched" type="button">
+              Watched
+              <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3.2 8.6 6.3 11.7 12.8 4.8"/></svg>
+            </button>
             <button class="btn ghost" id="next" type="button">
               Another
               <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13.5 8a5.5 5.5 0 1 1-1.9-4.15"/><path d="M13.6 2v3.1h-3.1"/></svg>
@@ -357,6 +367,7 @@
     });
 
     document.getElementById('next').addEventListener('click', draw);
+    document.getElementById('watched').addEventListener('click', markWatched);
 
     if (!reduce) {
       stage.querySelector('.pick').animate(
@@ -369,26 +380,63 @@
     }
   };
 
+  const updateStat = () => {
+    const left = list.filter((v) => !done.includes(v.id)).length;
+    stat.innerHTML = '<b>' + left + '</b> left of ' + list.length + ' &middot; one random pick';
+  };
+
+  const showDone = () => {
+    stage.innerHTML = `
+      <div class="note">
+        <p>All <strong>${list.length}</strong> videos are marked watched. Nothing left to pick.</p>
+        <button class="btn ghost" id="reset" type="button">Start over</button>
+      </div>`;
+    document.getElementById('reset').addEventListener('click', () => {
+      done = [];
+      save(DONE_KEY, done);
+      updateStat();
+      draw();
+    });
+  };
+
+  function markWatched() {
+    if (!lastId || done.includes(lastId)) return;
+    done.push(lastId);
+    save(DONE_KEY, done);
+    updateStat();
+    draw();
+  }
+
   function draw() {
     if (!list.length) return;
-    let pool = list.filter((v) => !seen.includes(v.id));
+    const open = list.filter((v) => !done.includes(v.id));
+    if (!open.length) {
+      showDone();
+      return;
+    }
+    let pool = open.filter((v) => !seen.includes(v.id));
     if (!pool.length) {
       seen = [];
-      pool = list.filter((v) => v.id !== lastId);
-      if (!pool.length) pool = list;
+      pool = open.filter((v) => v.id !== lastId);
+      if (!pool.length) pool = open;
     }
     const v = pool[Math.floor(Math.random() * pool.length)];
     lastId = v.id;
     seen.push(v.id);
     if (seen.length > SEEN_MAX) seen = seen.slice(-SEEN_MAX);
-    try { localStorage.setItem(SEEN_KEY, JSON.stringify(seen)); } catch { /* private mode */ }
+    save(SEEN_KEY, seen);
     render(v);
   }
 
   document.addEventListener('keydown', (e) => {
     if (e.metaKey || e.ctrlKey || e.altKey) return;
-    if (e.key !== ' ' && e.key !== 'ArrowRight' && e.key !== 'Enter') return;
     if (e.target.closest('a, button, input, select, textarea')) return;
+    if (e.key === 'd' || e.key === 'D') {
+      e.preventDefault();
+      markWatched();
+      return;
+    }
+    if (e.key !== ' ' && e.key !== 'ArrowRight' && e.key !== 'Enter') return;
     e.preventDefault();
     draw();
   });
@@ -405,7 +453,7 @@
         stage.innerHTML = '<div class="note"><p>Nothing saved in Watch Later yet.</p></div>';
         return;
       }
-      stat.innerHTML = '<b>' + list.length + '</b> saved &middot; one random pick';
+      updateStat();
       if (d.generated_at) {
         stamp.textContent = '\u00b7 ' + new Date(d.generated_at).toLocaleDateString('en-GB',
           { day: 'numeric', month: 'short', year: 'numeric' });

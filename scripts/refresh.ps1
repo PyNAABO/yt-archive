@@ -42,6 +42,8 @@ try {
 
     & $py (Join-Path $PSScriptRoot 'export_playlists.py')
     if ($LASTEXITCODE -ne 0) { throw "export_playlists.py failed ($LASTEXITCODE)" }
+    & $py (Join-Path $PSScriptRoot 'export_subscriptions.py') 2>&1 | Select-Object -Last 6
+    if ($LASTEXITCODE -ne 0) { 'subscriptions refresh failed, keeping the old file' }
     & $py (Join-Path $PSScriptRoot 'finalize_export.py')
     if ($LASTEXITCODE -ne 0) { throw "finalize_export.py failed ($LASTEXITCODE)" }
 
@@ -50,6 +52,8 @@ try {
         throw "Watch Later shrank from $before to $after. Nothing committed. Restore with: git checkout -- ."
     }
     "watch later: $before -> $after"
+
+    & $py (Join-Path $PSScriptRoot 'diff_exports.py') 2>&1 | Select-Object -First 40
 
     Remove-Item $cookies -ErrorAction SilentlyContinue
     Remove-Item (Join-Path $Root 'raw') -Recurse -Force -ErrorAction SilentlyContinue
