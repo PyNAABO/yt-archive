@@ -289,8 +289,12 @@
   const stat = document.getElementById('stat');
   const stamp = document.getElementById('stamp');
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const SEEN_KEY = 'watch-later:seen';
+  const SEEN_MAX = 20;
   let list = [];
   let lastId = '';
+  let seen = [];
+  try { seen = JSON.parse(localStorage.getItem(SEEN_KEY) || '[]'); } catch { seen = []; }
 
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => (
     { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
@@ -367,11 +371,17 @@
 
   function draw() {
     if (!list.length) return;
-    let v = list[0];
-    if (list.length > 1) {
-      do { v = list[Math.floor(Math.random() * list.length)]; } while (v.id === lastId);
+    let pool = list.filter((v) => !seen.includes(v.id));
+    if (!pool.length) {
+      seen = [];
+      pool = list.filter((v) => v.id !== lastId);
+      if (!pool.length) pool = list;
     }
+    const v = pool[Math.floor(Math.random() * pool.length)];
     lastId = v.id;
+    seen.push(v.id);
+    if (seen.length > SEEN_MAX) seen = seen.slice(-SEEN_MAX);
+    try { localStorage.setItem(SEEN_KEY, JSON.stringify(seen)); } catch { /* private mode */ }
     render(v);
   }
 
