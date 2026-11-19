@@ -16,7 +16,7 @@ ROOT = os.environ.get("YT_ROOT") or os.path.dirname(
     os.path.dirname(os.path.abspath(__file__))
 )
 FILE = os.path.join(ROOT, "subscriptions.json")
-STATE = r"C:\.playwright-mcp\yt_state.json"
+STATE = os.environ.get("YT_STATE") or r"C:\.playwright-mcp\yt_state.json"
 FEED = "https://www.youtube.com/feed/channels"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36"
 
@@ -78,8 +78,23 @@ def resolve_id(handle):
 
 def main():
     dry = "--dry-run" in sys.argv
-    doc = json.load(open(FILE, encoding="utf-8"))
-    old = {c["handle"].lower(): c for c in doc["channels"]}
+    account = ""
+    for i, a in enumerate(sys.argv):
+        if a == "--account" and i + 1 < len(sys.argv):
+            account = sys.argv[i + 1]
+    if os.path.exists(FILE):
+        doc = json.load(open(FILE, encoding="utf-8"))
+    else:
+        doc = {
+            "format": "json (canonical)",
+            "account": account,
+            "channel": account,
+            "sources": {},
+            "channels": [],
+            "handles": [],
+            "channel_ids": [],
+        }
+    old = {c["handle"].lower(): c for c in doc.get("channels", [])}
 
     live = scrape()
     print(f"live subscriptions: {len(live)}")

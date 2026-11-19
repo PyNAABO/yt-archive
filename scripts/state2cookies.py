@@ -1,7 +1,7 @@
 import json, time, os, sys
 
 ROOT = os.environ.get("YT_ROOT", r"C:\Users\mhodn\Desktop\Essentials\NAABO\YouTube")
-SRC = r"C:\.playwright-mcp\yt_state.json"
+SRC = os.environ.get("YT_STATE") or r"C:\.playwright-mcp\yt_state.json"
 OUT = os.path.join(ROOT, "cookies.txt")
 
 state = json.load(open(SRC, encoding="utf-8"))

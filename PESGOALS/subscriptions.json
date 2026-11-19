@@ -1,0 +1,1098 @@
+{
+ "format": "json (canonical)",
+ "account": "@PESGOALS-xc5vf",
+ "channel": "@PESGOALS-xc5vf",
+ "sources": {
+  "scrape 2026-11-19": "98 channels scraped live from /feed/channels"
+ },
+ "channels": [
+  {
+   "handle": "12th",
+   "channel_id": "UC9PKs05ycCv3NFiYGsYP8Ng",
+   "name": "12th Hour",
+   "url": "https://www.youtube.com/@12th",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "3blue1brown",
+   "channel_id": "UC1_uAIS3r8Vu6JjXWvastJg",
+   "name": "3Blue1Brown",
+   "url": "https://www.youtube.com/@3blue1brown",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "4funguys",
+   "channel_id": "UCX0Ic7wWe0v5je_RlR1aMRw",
+   "name": "4fun",
+   "url": "https://www.youtube.com/@4funguys",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "9to5Google",
+   "channel_id": "UCzIO0iX4yKW2P4NkmmKq1PA",
+   "name": "9to5Google",
+   "url": "https://www.youtube.com/@9to5Google",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "__binso",
+   "channel_id": "UCGff7aCzX8f5fkJPfFy69zg",
+   "name": "Binso",
+   "url": "https://www.youtube.com/@__binso",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "a2dchannel",
+   "channel_id": "UCCPWi_OwWMR5JTiujn7v-7g",
+   "name": "A2D Channel",
+   "url": "https://www.youtube.com/@a2dchannel",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "Aadhil_Unais_Hussain",
+   "channel_id": "UC5ukOOnDHzb4YZeYejho6Xw",
+   "name": "Aadhil Unais Hussain",
+   "url": "https://www.youtube.com/@Aadhil_Unais_Hussain",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "aaedmusa",
+   "channel_id": "UCX981hh-RI_L1QOwV08osNA",
+   "name": "Aaed Musa",
+   "url": "https://www.youtube.com/@aaedmusa",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "abetoday",
+   "channel_id": "UCUxIu91gGsK9Q0tTcQM8iNw",
+   "name": "abe's projects",
+   "url": "https://www.youtube.com/@abetoday",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "achappel",
+   "channel_id": "UCe1Aj6VEO299Yq4WkXdoD3Q",
+   "name": "Alexandre Chappel",
+   "url": "https://www.youtube.com/@achappel",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "adhrijoe9309",
+   "channel_id": "UCPqWtxI1dwZwd9IlhbsJ1vQ",
+   "name": "Adhri Joe",
+   "url": "https://www.youtube.com/@adhrijoe9309",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "aevytv",
+   "channel_id": "UCcPI9kEPhyUDLBHGOhKqxOw",
+   "name": "Aevy TV",
+   "url": "https://www.youtube.com/@aevytv",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "ai-foundations",
+   "channel_id": "UCWZwfV3ICOt3uEPpW6hYK4g",
+   "name": "AI Foundations",
+   "url": "https://www.youtube.com/@ai-foundations",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "aiDotEngineer",
+   "channel_id": "UCONWr2M0moA8wsGHb3zUn_w",
+   "name": "AI Engineer",
+   "url": "https://www.youtube.com/@aiDotEngineer",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "AILABS-393",
+   "channel_id": "UCelfWQr9sXVMTvBzviPGlFw",
+   "name": "AI LABS",
+   "url": "https://www.youtube.com/@AILABS-393",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "albinjoshy",
+   "channel_id": "UCnyruCv-SanMxN2tHWDt3TQ",
+   "name": "Albin Joshy",
+   "url": "https://www.youtube.com/@albinjoshy",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "AlexGriggAnimation",
+   "channel_id": "UCS9lQ0dxMCCK450SPNf_6Gw",
+   "name": "Alex Grigg // Animation for Anyone",
+   "url": "https://www.youtube.com/@AlexGriggAnimation",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "AlexHormozi",
+   "channel_id": "UCrvchO1h6lWZAuGaa1LqX9Q",
+   "name": "Alex Hormozi",
+   "url": "https://www.youtube.com/@AlexHormozi",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "aliabdaal",
+   "channel_id": "UChfo46ZNOV-vtehDc25A1Ug",
+   "name": "Ali Abdaal",
+   "url": "https://www.youtube.com/@aliabdaal",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "almosteverything",
+   "channel_id": "UC9jQdl9h_5BKm4ncYg7BAWw",
+   "name": "Almost Everything",
+   "url": "https://www.youtube.com/@almosteverything",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "alux",
+   "channel_id": "UCNjPtOCvMrKY5eLwr_-7eUg",
+   "name": "Alux.com",
+   "url": "https://www.youtube.com/@alux",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "anasmuhammed_official",
+   "channel_id": "UCz1lU3vzwvR8o1Fv-zmRnFw",
+   "name": "Anas muhammed",
+   "url": "https://www.youtube.com/@anasmuhammed_official",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "AndreiJikh",
+   "channel_id": "UCGy7SkBjcIAgTiwkXEtPnYg",
+   "name": "Andrei Jikh",
+   "url": "https://www.youtube.com/@AndreiJikh",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "AndroidPolice",
+   "channel_id": "UC7V6hW6xqPAiUfataAZZtWA",
+   "name": "Android Police",
+   "url": "https://www.youtube.com/@AndroidPolice",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "anitadoctor8801",
+   "channel_id": "UCp5TIUsuQR_rO46LaiB9Shw",
+   "name": "Anita Doctor",
+   "url": "https://www.youtube.com/@anitadoctor8801",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "AnnaCodesStuff",
+   "channel_id": "UC2f3Ccfkk4t7Dg82kQSsE5w",
+   "name": "Anna Codes",
+   "url": "https://www.youtube.com/@AnnaCodesStuff",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "Ansif-Tamil",
+   "channel_id": "UCRqa83mUUo3KKv4h-rHCOow",
+   "name": "Build & Learn AI Tamil - Ansif",
+   "url": "https://www.youtube.com/@Ansif-Tamil",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "answerinprogress",
+   "channel_id": "UCqVEHtQoXHmUCfJ-9smpTSg",
+   "name": "Answer in Progress",
+   "url": "https://www.youtube.com/@answerinprogress",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "AnthonyGugliotta",
+   "channel_id": "UCzi1cAY62PslI1b-4KGVxoQ",
+   "name": "Anthony Gugliotta",
+   "url": "https://www.youtube.com/@AnthonyGugliotta",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "Ardens.",
+   "channel_id": "UCgCezP1ThHMANeuHtnf1Euw",
+   "name": "Ardens",
+   "url": "https://www.youtube.com/@Ardens.",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "ArenaAIOfficial",
+   "channel_id": "UCKHVXTuahhhZFhhu_SfTyWA",
+   "name": "Arena",
+   "url": "https://www.youtube.com/@ArenaAIOfficial",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "ArjanCodes",
+   "channel_id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+   "name": "ArjanCodes",
+   "url": "https://www.youtube.com/@ArjanCodes",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "AsapSCIENCE",
+   "channel_id": "UCBOUrcXLnI271yax25aRZCw",
+   "name": "AsapSCIENCE",
+   "url": "https://www.youtube.com/@AsapSCIENCE",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "ashiqsrambickal",
+   "channel_id": "UCzdkwRWwflknUDwD4tzD07g",
+   "name": "Dr. Ashiq Sainudheen",
+   "url": "https://www.youtube.com/@ashiqsrambickal",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "ASIFOMAR",
+   "channel_id": "UCBe5nglAZtf1Dd6HyxOWfWw",
+   "name": "ASIF OMAR",
+   "url": "https://www.youtube.com/@ASIFOMAR",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "aswanthkok10",
+   "channel_id": "UCr8xb2866oogDXDSN5-2Mxw",
+   "name": "Aswanth Kok",
+   "url": "https://www.youtube.com/@aswanthkok10",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "athulvstheworld",
+   "channel_id": "UCAsg6JKUHXw1QIqIInz8_PA",
+   "name": "Athul Vs The World",
+   "url": "https://www.youtube.com/@athulvstheworld",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "Automotiveleader",
+   "channel_id": "UCwHEOz6dfcAmsKdU5ce1yWg",
+   "name": "Automotive leader",
+   "url": "https://www.youtube.com/@Automotiveleader",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "awesome-coding",
+   "channel_id": "UCXzw-OdotBUcNA9yhuYQBwA",
+   "name": "Awesome",
+   "url": "https://www.youtube.com/@awesome-coding",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "babu_ramachandran",
+   "channel_id": "UCAGrZEiQpLMZcdvUmRwAPNw",
+   "name": "Babu Ramachandran",
+   "url": "https://www.youtube.com/@babu_ramachandran",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "BasicallyHomeless",
+   "channel_id": "UChHxJaKDqH4bOs0pX3hkKnA",
+   "name": "Basically Homeless",
+   "url": "https://www.youtube.com/@BasicallyHomeless",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "Bea_con_Academy",
+   "channel_id": "UC8Roefv7OptlD1zkyrC5rUA",
+   "name": "Beacon Academy",
+   "url": "https://www.youtube.com/@Bea_con_Academy",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "benscyberlife",
+   "channel_id": "UCgfISCCaUB4zMyD8uvx56jw",
+   "name": "Ben's Cyber Life",
+   "url": "https://www.youtube.com/@benscyberlife",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "betterstack",
+   "channel_id": "UCkVfrGwV-iG9bSsgCbrNPxQ",
+   "name": "Better Stack",
+   "url": "https://www.youtube.com/@betterstack",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "beyondfireship",
+   "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+   "name": "Beyond Fireship",
+   "url": "https://www.youtube.com/@beyondfireship",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "bigboxSWE",
+   "channel_id": "UC5--wS0Ljbin1TjWQX6eafA",
+   "name": "bigboxSWE",
+   "url": "https://www.youtube.com/@bigboxSWE",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "bogxd",
+   "channel_id": "UCZXW8E1__d5tZb-wLFOt8TQ",
+   "name": "Bog",
+   "url": "https://www.youtube.com/@bogxd",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "BraveWilderness",
+   "channel_id": "UCuois2_MnXI9UWC_a23XOzw",
+   "name": "Brave Wilderness",
+   "url": "https://www.youtube.com/@BraveWilderness",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "BrickExperimentChannel",
+   "channel_id": "UClsFdM0HzTdF1JYoraQ0aUw",
+   "name": "Brick Experiment Channel",
+   "url": "https://www.youtube.com/@BrickExperimentChannel",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "bridgemindai",
+   "channel_id": "UCwaTGE53GLGC3fDClVl_7TA",
+   "name": "BridgeMind",
+   "url": "https://www.youtube.com/@bridgemindai",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "BringusStudios",
+   "channel_id": "UC-kDX_ZvjzY_GECcKmJ9FPA",
+   "name": "Bringus Studios",
+   "url": "https://www.youtube.com/@BringusStudios",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "BrototypeMalayalam",
+   "channel_id": "UCIWCfsn2TWsU2eoOt9C31Yw",
+   "name": "Brototype",
+   "url": "https://www.youtube.com/@BrototypeMalayalam",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "BryanJohnson",
+   "channel_id": "UCnRVL1-HJnXWB_Xi2dAoTcg",
+   "name": "Bryan Johnson",
+   "url": "https://www.youtube.com/@BryanJohnson",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "BuildersCentral",
+   "channel_id": "UCevFnhyD9Ut5TwYdCLBh5UQ",
+   "name": "Builders Central by Zoho Creator",
+   "url": "https://www.youtube.com/@BuildersCentral",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "burnerbiits",
+   "channel_id": "UCeFrTE5vjLntULqTAkY1d9A",
+   "name": "BurnerBiits",
+   "url": "https://www.youtube.com/@burnerbiits",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "ByteMonk",
+   "channel_id": "UCzCsyvyrq38R6TnztEzOmgg",
+   "name": "ByteMonk",
+   "url": "https://www.youtube.com/@ByteMonk",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "CallMeShazzamTECH",
+   "channel_id": "UCNhaliLwhGH9wX3pe9bFTbA",
+   "name": "CallMeShazzam Vines",
+   "url": "https://www.youtube.com/@CallMeShazzamTECH",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "CAMadewithlogic",
+   "channel_id": "UC1MQwOfp9UZL5lA-Y40puXg",
+   "name": "CA Ashish Jain 🎓",
+   "url": "https://www.youtube.com/@CAMadewithlogic",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "captainworkoutYT",
+   "channel_id": "UC-uqB-GzDsvlu3c6NCoqACQ",
+   "name": "Captain Workout",
+   "url": "https://www.youtube.com/@captainworkoutYT",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "Chunkz",
+   "channel_id": "UCQNbfWASCZedLPFChbJ6AEg",
+   "name": "Chunkz",
+   "url": "https://www.youtube.com/@Chunkz",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "Cinemagic-Malayalam",
+   "channel_id": "UC5PxbESASUc2GYyV0FDH40w",
+   "name": "Cinemagic",
+   "url": "https://www.youtube.com/@Cinemagic-Malayalam",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "cinemosophy",
+   "channel_id": "UCltUVm9lrW5MQ7hjXkNarEg",
+   "name": "Cinemosophy",
+   "url": "https://www.youtube.com/@cinemosophy",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "codehead01",
+   "channel_id": "UCFVteOob_YXJHPaGTqlDV2Q",
+   "name": "CodeHead",
+   "url": "https://www.youtube.com/@codehead01",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "coderized",
+   "channel_id": "UCrsLPlwxUInDoNubOP85EWQ",
+   "name": "Coderized",
+   "url": "https://www.youtube.com/@coderized",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "CodieSanchezCT",
+   "channel_id": "UCdMrj5kezVrTiqZoFRqGxAg",
+   "name": "Codie Sanchez",
+   "url": "https://www.youtube.com/@CodieSanchezCT",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "CodingEntrepreneurs",
+   "channel_id": "UCWEHue8kksIaktO8KTTN_zg",
+   "name": "CodingEntrepreneurs",
+   "url": "https://www.youtube.com/@CodingEntrepreneurs",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "CodingWithLewis",
+   "channel_id": "UC8Od0uwfn0wTRvHGTtqXENg",
+   "name": "Coding with Lewis",
+   "url": "https://www.youtube.com/@CodingWithLewis",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "Coffeezilla",
+   "channel_id": "UC9WQRw8jgJhag-vkDNTDMRg",
+   "name": "Coffeezilla",
+   "url": "https://www.youtube.com/@Coffeezilla",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "ColeHastings",
+   "channel_id": "UCHiHydjoVkbmEWx3l6NxGSQ",
+   "name": "Cole Hastings",
+   "url": "https://www.youtube.com/@ColeHastings",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "ColeMedin",
+   "channel_id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "name": "Cole Medin",
+   "url": "https://www.youtube.com/@ColeMedin",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "CompileFuture",
+   "channel_id": "UCn3o-gnsVNfBhP5TtyV2RxQ",
+   "name": "Compile Future",
+   "url": "https://www.youtube.com/@CompileFuture",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "Corbin_Brown",
+   "channel_id": "UCqQ3k1u1dNL8WECUa7P00aw",
+   "name": "corbin",
+   "url": "https://www.youtube.com/@Corbin_Brown",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "craighillcompany",
+   "channel_id": "UCc6L2C09Gs6euMoUyqiz02Q",
+   "name": "Craighill",
+   "url": "https://www.youtube.com/@craighillcompany",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "CreatorLift",
+   "channel_id": "UCmG9FCD1i4qUpEPezAOemsA",
+   "name": "Creator Lift",
+   "url": "https://www.youtube.com/@CreatorLift",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "CURV-LAB",
+   "channel_id": "UCUxAKIy1YE1hVE9zJtHGdkg",
+   "name": "curv lab",
+   "url": "https://www.youtube.com/@CURV-LAB",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "cyberflow10",
+   "channel_id": "UCUvkPEm38w6pq8w5QYgtPPw",
+   "name": "CyberFlow",
+   "url": "https://www.youtube.com/@cyberflow10",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "cybernews",
+   "channel_id": "UC8_W_WL1cQm4jYTb2Cv6KLQ",
+   "name": "Cybernews",
+   "url": "https://www.youtube.com/@cybernews",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "DanielAuthur10",
+   "channel_id": "UCIl9O1sc6GBbsPNg8pWDIJQ",
+   "name": "Daniel Authur",
+   "url": "https://www.youtube.com/@DanielAuthur10",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "danieldalen",
+   "channel_id": "UCwBHuh-snUhlVNUYabe87IQ",
+   "name": "Daniel Dalen",
+   "url": "https://www.youtube.com/@danieldalen",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "davidbombal",
+   "channel_id": "UCZTIRrENWr_rjVoA7BcUE_A",
+   "name": "David Bombal",
+   "url": "https://www.youtube.com/@davidbombal",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "DavidOndrej",
+   "channel_id": "UCPGrgwfbkjTIgPoOh2q1BAg",
+   "name": "David Ondrej",
+   "url": "https://www.youtube.com/@DavidOndrej",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "de-fog",
+   "channel_id": "UCUlYm_USZ-HHhfLIpN8_kug",
+   "name": "DEFOG",
+   "url": "https://www.youtube.com/@de-fog",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "devopstoolbox",
+   "channel_id": "UCYeiozh-4QwuC1sjgCmB92w",
+   "name": "DevOps Toolbox",
+   "url": "https://www.youtube.com/@devopstoolbox",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "dhilber-ai",
+   "channel_id": "UC5z_z6zuR9rn0DadryEkezg",
+   "name": "Dhilber AI",
+   "url": "https://www.youtube.com/@dhilber-ai",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "dhruvrathee",
+   "channel_id": "UCjNgqJ_FMLntYVzq7daw1TQ",
+   "name": "Dhruv Rathee",
+   "url": "https://www.youtube.com/@dhruvrathee",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "DIYPerks",
+   "channel_id": "UC177ji4tmDiLlW5iKyfJShA",
+   "name": "DIY Perks",
+   "url": "https://www.youtube.com/@DIYPerks",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "DorianToddYT",
+   "channel_id": "UC72YiYkvqzR1wqClJKtISnQ",
+   "name": "Dorian Todd",
+   "url": "https://www.youtube.com/@DorianToddYT",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "DostcastClips",
+   "channel_id": "UCpeRzRS1b1NvY4og1huE7jw",
+   "name": "Dostcast Clips",
+   "url": "https://www.youtube.com/@DostcastClips",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "Dr.ShadeZahrai",
+   "channel_id": "UCqegMHSWfJy1Mp-GCOiu2qA",
+   "name": "Dr. Shadé Zahrai",
+   "url": "https://www.youtube.com/@Dr.ShadeZahrai",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "DrBenMiles",
+   "channel_id": "UCUeZBocfxALSUdOgNJB5ySA",
+   "name": "Dr Ben Miles",
+   "url": "https://www.youtube.com/@DrBenMiles",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "dreamsofcode",
+   "channel_id": "UCEEVcDuBRDiwxfXAgQjLGug",
+   "name": "Dreams of Code",
+   "url": "https://www.youtube.com/@dreamsofcode",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "DrewBuildsStuff",
+   "channel_id": "UC073quTeFarhKNe8ZuC6Qig",
+   "name": "Drew Builds Stuff",
+   "url": "https://www.youtube.com/@DrewBuildsStuff",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "ExplainingAndroid",
+   "channel_id": "UCi1uhtAK-u88A2CFxyf1ylA",
+   "name": "Doug Lynch is Explaining Android",
+   "url": "https://www.youtube.com/@ExplainingAndroid",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "IntellectualChad",
+   "channel_id": "UClvdIQwkgwMFwyjsDZoi-4g",
+   "name": "Collin The Chad",
+   "url": "https://www.youtube.com/@IntellectualChad",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "JoeGlines-Automator",
+   "channel_id": "UCUwyeJ6LhOC9NyIHnaO8x6A",
+   "name": "Tools Not Tokens",
+   "url": "https://www.youtube.com/@JoeGlines-Automator",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "NathanSebhastian",
+   "channel_id": "UCvS59S24crXmGfIEiejcr9g",
+   "name": "Nathan Sebhastian",
+   "url": "https://www.youtube.com/@NathanSebhastian",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "theAIsearch",
+   "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+   "name": "AI Search",
+   "url": "https://www.youtube.com/@theAIsearch",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  },
+  {
+   "handle": "TheSTEMDad",
+   "channel_id": "UCxX9wt5FWQUAAz4UrysqK9A",
+   "name": "ClarityCoders",
+   "url": "https://www.youtube.com/@TheSTEMDad",
+   "sources": [
+    "scrape 2026-11-19"
+   ]
+  }
+ ],
+ "handles": [
+  "12th",
+  "3blue1brown",
+  "4funguys",
+  "9to5Google",
+  "__binso",
+  "a2dchannel",
+  "Aadhil_Unais_Hussain",
+  "aaedmusa",
+  "abetoday",
+  "achappel",
+  "adhrijoe9309",
+  "aevytv",
+  "ai-foundations",
+  "aiDotEngineer",
+  "AILABS-393",
+  "albinjoshy",
+  "AlexGriggAnimation",
+  "AlexHormozi",
+  "aliabdaal",
+  "almosteverything",
+  "alux",
+  "anasmuhammed_official",
+  "AndreiJikh",
+  "AndroidPolice",
+  "anitadoctor8801",
+  "AnnaCodesStuff",
+  "Ansif-Tamil",
+  "answerinprogress",
+  "AnthonyGugliotta",
+  "Ardens.",
+  "ArenaAIOfficial",
+  "ArjanCodes",
+  "AsapSCIENCE",
+  "ashiqsrambickal",
+  "ASIFOMAR",
+  "aswanthkok10",
+  "athulvstheworld",
+  "Automotiveleader",
+  "awesome-coding",
+  "babu_ramachandran",
+  "BasicallyHomeless",
+  "Bea_con_Academy",
+  "benscyberlife",
+  "betterstack",
+  "beyondfireship",
+  "bigboxSWE",
+  "bogxd",
+  "BraveWilderness",
+  "BrickExperimentChannel",
+  "bridgemindai",
+  "BringusStudios",
+  "BrototypeMalayalam",
+  "BryanJohnson",
+  "BuildersCentral",
+  "burnerbiits",
+  "ByteMonk",
+  "CallMeShazzamTECH",
+  "CAMadewithlogic",
+  "captainworkoutYT",
+  "Chunkz",
+  "Cinemagic-Malayalam",
+  "cinemosophy",
+  "codehead01",
+  "coderized",
+  "CodieSanchezCT",
+  "CodingEntrepreneurs",
+  "CodingWithLewis",
+  "Coffeezilla",
+  "ColeHastings",
+  "ColeMedin",
+  "CompileFuture",
+  "Corbin_Brown",
+  "craighillcompany",
+  "CreatorLift",
+  "CURV-LAB",
+  "cyberflow10",
+  "cybernews",
+  "DanielAuthur10",
+  "danieldalen",
+  "davidbombal",
+  "DavidOndrej",
+  "de-fog",
+  "devopstoolbox",
+  "dhilber-ai",
+  "dhruvrathee",
+  "DIYPerks",
+  "DorianToddYT",
+  "DostcastClips",
+  "Dr.ShadeZahrai",
+  "DrBenMiles",
+  "dreamsofcode",
+  "DrewBuildsStuff",
+  "ExplainingAndroid",
+  "IntellectualChad",
+  "JoeGlines-Automator",
+  "NathanSebhastian",
+  "theAIsearch",
+  "TheSTEMDad"
+ ],
+ "channel_ids": [
+  "UC9PKs05ycCv3NFiYGsYP8Ng",
+  "UC1_uAIS3r8Vu6JjXWvastJg",
+  "UCX0Ic7wWe0v5je_RlR1aMRw",
+  "UCzIO0iX4yKW2P4NkmmKq1PA",
+  "UCGff7aCzX8f5fkJPfFy69zg",
+  "UCCPWi_OwWMR5JTiujn7v-7g",
+  "UC5ukOOnDHzb4YZeYejho6Xw",
+  "UCX981hh-RI_L1QOwV08osNA",
+  "UCUxIu91gGsK9Q0tTcQM8iNw",
+  "UCe1Aj6VEO299Yq4WkXdoD3Q",
+  "UCPqWtxI1dwZwd9IlhbsJ1vQ",
+  "UCcPI9kEPhyUDLBHGOhKqxOw",
+  "UCWZwfV3ICOt3uEPpW6hYK4g",
+  "UCONWr2M0moA8wsGHb3zUn_w",
+  "UCelfWQr9sXVMTvBzviPGlFw",
+  "UCnyruCv-SanMxN2tHWDt3TQ",
+  "UCS9lQ0dxMCCK450SPNf_6Gw",
+  "UCrvchO1h6lWZAuGaa1LqX9Q",
+  "UChfo46ZNOV-vtehDc25A1Ug",
+  "UC9jQdl9h_5BKm4ncYg7BAWw",
+  "UCNjPtOCvMrKY5eLwr_-7eUg",
+  "UCz1lU3vzwvR8o1Fv-zmRnFw",
+  "UCGy7SkBjcIAgTiwkXEtPnYg",
+  "UC7V6hW6xqPAiUfataAZZtWA",
+  "UCp5TIUsuQR_rO46LaiB9Shw",
+  "UC2f3Ccfkk4t7Dg82kQSsE5w",
+  "UCRqa83mUUo3KKv4h-rHCOow",
+  "UCqVEHtQoXHmUCfJ-9smpTSg",
+  "UCzi1cAY62PslI1b-4KGVxoQ",
+  "UCgCezP1ThHMANeuHtnf1Euw",
+  "UCKHVXTuahhhZFhhu_SfTyWA",
+  "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+  "UCBOUrcXLnI271yax25aRZCw",
+  "UCzdkwRWwflknUDwD4tzD07g",
+  "UCBe5nglAZtf1Dd6HyxOWfWw",
+  "UCr8xb2866oogDXDSN5-2Mxw",
+  "UCAsg6JKUHXw1QIqIInz8_PA",
+  "UCwHEOz6dfcAmsKdU5ce1yWg",
+  "UCXzw-OdotBUcNA9yhuYQBwA",
+  "UCAGrZEiQpLMZcdvUmRwAPNw",
+  "UChHxJaKDqH4bOs0pX3hkKnA",
+  "UC8Roefv7OptlD1zkyrC5rUA",
+  "UCgfISCCaUB4zMyD8uvx56jw",
+  "UCkVfrGwV-iG9bSsgCbrNPxQ",
+  "UCsBjURrPoezykLs9EqgamOA",
+  "UC5--wS0Ljbin1TjWQX6eafA",
+  "UCZXW8E1__d5tZb-wLFOt8TQ",
+  "UCuois2_MnXI9UWC_a23XOzw",
+  "UClsFdM0HzTdF1JYoraQ0aUw",
+  "UCwaTGE53GLGC3fDClVl_7TA",
+  "UC-kDX_ZvjzY_GECcKmJ9FPA",
+  "UCIWCfsn2TWsU2eoOt9C31Yw",
+  "UCnRVL1-HJnXWB_Xi2dAoTcg",
+  "UCevFnhyD9Ut5TwYdCLBh5UQ",
+  "UCeFrTE5vjLntULqTAkY1d9A",
+  "UCzCsyvyrq38R6TnztEzOmgg",
+  "UCNhaliLwhGH9wX3pe9bFTbA",
+  "UC1MQwOfp9UZL5lA-Y40puXg",
+  "UC-uqB-GzDsvlu3c6NCoqACQ",
+  "UCQNbfWASCZedLPFChbJ6AEg",
+  "UC5PxbESASUc2GYyV0FDH40w",
+  "UCltUVm9lrW5MQ7hjXkNarEg",
+  "UCFVteOob_YXJHPaGTqlDV2Q",
+  "UCrsLPlwxUInDoNubOP85EWQ",
+  "UCdMrj5kezVrTiqZoFRqGxAg",
+  "UCWEHue8kksIaktO8KTTN_zg",
+  "UC8Od0uwfn0wTRvHGTtqXENg",
+  "UC9WQRw8jgJhag-vkDNTDMRg",
+  "UCHiHydjoVkbmEWx3l6NxGSQ",
+  "UCMwVTLZIRRUyyVrkjDpn4pA",
+  "UCn3o-gnsVNfBhP5TtyV2RxQ",
+  "UCqQ3k1u1dNL8WECUa7P00aw",
+  "UCc6L2C09Gs6euMoUyqiz02Q",
+  "UCmG9FCD1i4qUpEPezAOemsA",
+  "UCUxAKIy1YE1hVE9zJtHGdkg",
+  "UCUvkPEm38w6pq8w5QYgtPPw",
+  "UC8_W_WL1cQm4jYTb2Cv6KLQ",
+  "UCIl9O1sc6GBbsPNg8pWDIJQ",
+  "UCwBHuh-snUhlVNUYabe87IQ",
+  "UCZTIRrENWr_rjVoA7BcUE_A",
+  "UCPGrgwfbkjTIgPoOh2q1BAg",
+  "UCUlYm_USZ-HHhfLIpN8_kug",
+  "UCYeiozh-4QwuC1sjgCmB92w",
+  "UC5z_z6zuR9rn0DadryEkezg",
+  "UCjNgqJ_FMLntYVzq7daw1TQ",
+  "UC177ji4tmDiLlW5iKyfJShA",
+  "UC72YiYkvqzR1wqClJKtISnQ",
+  "UCpeRzRS1b1NvY4og1huE7jw",
+  "UCqegMHSWfJy1Mp-GCOiu2qA",
+  "UCUeZBocfxALSUdOgNJB5ySA",
+  "UCEEVcDuBRDiwxfXAgQjLGug",
+  "UC073quTeFarhKNe8ZuC6Qig",
+  "UCi1uhtAK-u88A2CFxyf1ylA",
+  "UClvdIQwkgwMFwyjsDZoi-4g",
+  "UCUwyeJ6LhOC9NyIHnaO8x6A",
+  "UCvS59S24crXmGfIEiejcr9g",
+  "UCIgnGlGkVRhd4qNFcEwLL4A",
+  "UCxX9wt5FWQUAAz4UrysqK9A"
+ ],
+ "generated_at": "2026-11-19T21:02:06+05:30",
+ "counts": {
+  "unique_channels": 98,
+  "with_handle": 98,
+  "with_channel_id": 98
+ }
+}
