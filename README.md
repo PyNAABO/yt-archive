@@ -2,7 +2,9 @@
 
 Local archive of the YouTube channel
 [@muhammednabhan1763](https://www.youtube.com/@muhammednabhan1763) — the account in use from 2026-11-17.
-**Main account — this folder's root.** The old **@ne00sa** export sits in [`ne00sa/`](ne00sa/README.md).
+**Main account — this folder's root.** Older accounts are archived in subfolders:
+[`ne00sa/`](ne00sa/README.md) and [`PESGOALS/`](PESGOALS/README.md). Only this root account
+is refreshed now.
 
 **One file per category**, JSON only.
 
