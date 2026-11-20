@@ -70,3 +70,27 @@ python scripts\diff_exports.py ne00sa     # working tree vs another folder
 ```
 
 Prints added/removed Watch Later entries and per-playlist deltas. Reads only, writes nothing.
+
+## Retiring an account (after its export is committed)
+
+Clearing the live account is browser-only work. Replaying `cookies.txt` from Python gets redirected
+to Google sign-in, and the subscribe button ignores synthetic clicks unless its confirmation dialog
+is really visible. The pattern below was verified 2026-11-20 on the PESGOALS account:
+
+1. Read `"SESSION_INDEX"` from the signed-in `/feed/channels` page source. That number goes in the
+   `X-Goog-AuthUser` header. Without it every InnerTube call runs as the wrong Google account and
+   returns 200 while doing nothing.
+2. Unsubscribe through the UI, one channel at a time: click `#subscribe-button button`, wait for a
+   **visible** `yt-confirm-dialog-renderer`, click its `Unsubscribe` button, wait for it to close.
+   The dialog element is reused, so a loop that clicks a hidden copy reports success and removes
+   nothing.
+3. Empty Watch Later and remove playlists with InnerTube calls made **from the page** (real origin,
+   `SAPISIDHASH` built from the `SAPISID` cookie): `browse/edit_playlist` with
+   `ACTION_REMOVE_VIDEO_BY_VIDEO_ID` (20 ids per call) for Watch Later, `playlist/delete` for
+   playlists the account owns, and `like/removelike` with `target.playlistId` for the ones it only
+   saved — those answer 403 to delete.
+4. Verify through the API, not the DOM: `browse {browseId: "FEchannels"}` keeps returning
+   `channelRenderer` entries marked `"Subscribed"` while any subscription is left, even though the
+   rendered page shows stale cards. Watch Later is empty when the playlist header says `No videos`.
+
+Liked videos (`LL`) are system data and are left alone unless asked.
