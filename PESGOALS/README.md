@@ -18,6 +18,14 @@ Archive of the Google account signed in as **@PESGOALS-xc5vf** ("MNM"), extracte
 - The playlist count is 19, not 20: `/feed/playlists` also lists YouTube-generated radios
   (`RD…`), which cannot be downloaded and are skipped.
 
+## Status: cleared 2026-11-20
+
+The live account was wiped after this export was committed: **0 subscriptions**, **0 Watch Later
+videos**, and all 19 playlists gone (2 owned → deleted, 17 saved from other channels → removed from
+the library). Liked videos were left as they were. Watch Later and subscriptions grew between the
+export and the wipe — the account held more channels than the 98 captured here, so this folder is a
+snapshot, not a complete history.
+
 ## Re-exporting
 
 Same scripts as the parent folder, pointed at this one:
