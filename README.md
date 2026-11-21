@@ -91,6 +91,9 @@ is really visible. The pattern below was verified 2026-11-20 on the PESGOALS acc
    saved — those answer 403 to delete.
 4. Verify through the API, not the DOM: `browse {browseId: "FEchannels"}` keeps returning
    `channelRenderer` entries marked `"Subscribed"` while any subscription is left, even though the
-   rendered page shows stale cards. Watch Later is empty when the playlist header says `No videos`.
+   rendered page shows stale cards. Watch Later is empty when the playlist header says `No videos`
+   (`browse {browseId: "VLWL"}`). `browse {browseId: "FEplaylists"}` answers **400 invalid argument**
+   for this account type, so verify playlists on the page tabs: `Owned` should hold only Watch later,
+   `Saved` only the `Mix - …` radios YouTube generates by itself.
 
 Liked videos (`LL`) are system data and are left alone unless asked.
