@@ -32,6 +32,14 @@ signed into the shared browser profile as `authuser=3`; this folder is its archi
 - Watch Later and the playlists are what the **channel** held at export time; the parent folder's
   export (`@muhammednabhan1763`) is a different account and keeps its own counts.
 
+## Status: cleared 2026-11-21
+
+The live account was wiped after this export was committed: **0 Watch Later videos** (all 505
+removed) and **all 132 playlists gone** — owned ones deleted, saved ones unsaved from the library.
+Subscriptions were already empty. Liked videos were left as they were (5,000). The three `Mix - …`
+radios still on the Saved tab are YouTube-generated from listening history, not saved playlists, and
+are not part of this export.
+
 ## Re-exporting
 
 Same scripts as the parent folder, pointed at this one:
