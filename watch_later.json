@@ -2,16 +2,324 @@
  "label": "Watch later",
  "playlist_id": "WL",
  "url": "https://www.youtube.com/playlist?list=WL",
- "count": 382,
- "generated_at": "2026-11-17T13:13:45+05:30",
+ "count": 409,
+ "generated_at": "2026-11-24T17:48:13+05:30",
  "videos": [
+  {
+   "id": "C-HQuu2VtmA",
+   "title": "Is This the End of Hollywood?",
+   "channel": "ErikDoesVFX",
+   "channel_id": "UCKfbVBTIboIqqYSui9F5ssA",
+   "duration": 691,
+   "view_count": 1600000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=C-HQuu2VtmA"
+  },
+  {
+   "id": "MfvSlG4QPMI",
+   "title": "Stop Building a \"Jarvis\" AI (Do This Instead)",
+   "channel": "Jacob Jesse Steinberger",
+   "channel_id": "UCbcxPg2efdKDGXrAPTSQ1ug",
+   "duration": 436,
+   "view_count": 944,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=MfvSlG4QPMI"
+  },
+  {
+   "id": "yJY5ylj2NtY",
+   "title": "Having fun will make you more successful.",
+   "channel": "monke",
+   "channel_id": "UCC2nLqBUIy8bagyNMDRiRcA",
+   "duration": 489,
+   "view_count": 1100000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=yJY5ylj2NtY"
+  },
+  {
+   "id": "fj-FoLO_dKQ",
+   "title": "Even AI Hasn't Beaten This Man at Programming",
+   "channel": "Turing and Turing Now - Science & Tech News",
+   "channel_id": null,
+   "duration": 1107,
+   "view_count": 993000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=fj-FoLO_dKQ"
+  },
+  {
+   "id": "cGngUYGfU0A",
+   "title": "If You're in Computer Science, Watch This Now",
+   "channel": "The Coding Gopher",
+   "channel_id": "UC-mTIBh__DzAqW495JHXy5A",
+   "duration": 421,
+   "view_count": 764000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=cGngUYGfU0A"
+  },
+  {
+   "id": "qu-SN7gGwvs",
+   "title": "Your Future Self Is Begging You To Watch This Video",
+   "channel": "Fedi Lecamus",
+   "channel_id": "UCHrt_5vommBgmWZmODmrGDQ",
+   "duration": 187,
+   "view_count": 54000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=qu-SN7gGwvs"
+  },
+  {
+   "id": "fDr58RsxmVo",
+   "title": "How Training Tendons Makes You Stronger Than Big Guys",
+   "channel": "The Rep Theory ",
+   "channel_id": "UCLHBb6YJWElf39xWmS77K0A",
+   "duration": 483,
+   "view_count": 5600000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=fDr58RsxmVo"
+  },
+  {
+   "id": "xwrevjR9nRo",
+   "title": "How to Plan Your Day in 5 Minutes (Step by Step)",
+   "channel": "Ross Harkness",
+   "channel_id": "UCCKLNC83b571kYbaizPOs_w",
+   "duration": 582,
+   "view_count": 104000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=xwrevjR9nRo"
+  },
+  {
+   "id": "K4dDEGWfq18",
+   "title": "Learn These JavaScript Concepts Before React",
+   "channel": "Coding2GO",
+   "channel_id": "UCGpoeEhUBQBaaKZ_a8HB67Q",
+   "duration": 357,
+   "view_count": 22000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=K4dDEGWfq18"
+  },
+  {
+   "id": "3va19BXVV0k",
+   "title": "I'm Begging You to Manage Your Time (Before It's Too Late)",
+   "channel": "Sarthak Virmani",
+   "channel_id": "UCs52qRDezuFmnu8w9OAvjGA",
+   "duration": 841,
+   "view_count": 503000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=3va19BXVV0k"
+  },
+  {
+   "id": "jYLWb4wXMPw",
+   "title": "How Smart Students Are Using AI to Get Ahead",
+   "channel": "CodeWithHarry",
+   "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+   "duration": 1240,
+   "view_count": 326000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=jYLWb4wXMPw"
+  },
+  {
+   "id": "z7LQZ00ZWP0",
+   "title": "Give Me 9 Minutes & I'll Fix Your Body Language",
+   "channel": "Philipp Humm",
+   "channel_id": "UCKjyzU_ElNwSXr4b0UzUjdw",
+   "duration": 553,
+   "view_count": 223000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=z7LQZ00ZWP0"
+  },
+  {
+   "id": "Y0-xv7bNVvU",
+   "title": "My Entire Life Runs on AI - Here's the System",
+   "channel": "Ali Abdaal",
+   "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
+   "duration": 1297,
+   "view_count": 139000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=Y0-xv7bNVvU"
+  },
+  {
+   "id": "Huqz1Vo_Ap8",
+   "title": "Is Frontend Development Actually Dead? (The AI Reality)",
+   "channel": "Sheryians Coding School",
+   "channel_id": "UCc7gpqMnnOSbU_F2-5MVVZw",
+   "duration": 933,
+   "view_count": 79000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=Huqz1Vo_Ap8"
+  },
+  {
+   "id": "A9I0NxebGyw",
+   "title": "The Fastest Way To CHANGE Your Life (Islamic Way) || Hisham Abu Yusuf",
+   "channel": "Tazkiyah Project",
+   "channel_id": "UCkfVE-jO23dNKbxtpbTAEyg",
+   "duration": 1209,
+   "view_count": 152000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=A9I0NxebGyw"
+  },
+  {
+   "id": "L9GHmwO4-uw",
+   "title": "If You Have a Job, Start Selling Your Skills ASAP",
+   "channel": "Ali Abdaal and Ali Abdaal – Lifestyle Business Academy",
+   "channel_id": null,
+   "duration": 1175,
+   "view_count": 88000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=L9GHmwO4-uw"
+  },
+  {
+   "id": "DxEkSmqTOtc",
+   "title": "Alan Walker, Hamza Malik, Zain Zohaib & James Arthur - Alfaaz (Alan Walker Relight)",
+   "channel": "Alan Walker and 4 more",
+   "channel_id": null,
+   "duration": 186,
+   "view_count": 6800000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=DxEkSmqTOtc"
+  },
+  {
+   "id": "BNRfzI6E1Es",
+   "title": "Brutally Honest Advice About Productivity in 26 Minutes",
+   "channel": "Ali Abdaal",
+   "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
+   "duration": 1578,
+   "view_count": 411000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=BNRfzI6E1Es"
+  },
+  {
+   "id": "tGrMjRqQGVY",
+   "title": "The top 1% Think on Paper. Here’s How To Do It.",
+   "channel": "Justin Sung and iCanStudy",
+   "channel_id": null,
+   "duration": 1194,
+   "view_count": 1100000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=tGrMjRqQGVY"
+  },
+  {
+   "id": "GDMmxmn-p8I",
+   "title": "How I Organize My Entire Life Using Just One Notebook",
+   "channel": "Bullet Journal",
+   "channel_id": "UCt3B6rUXb__X2eMyY7jzgIg",
+   "duration": 618,
+   "view_count": 1500000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=GDMmxmn-p8I"
+  },
+  {
+   "id": "SryU_cDUIv4",
+   "title": "The Most Dangerous Book Ever Written About How Reality Works",
+   "channel": "Hermetic Manifesting",
+   "channel_id": "UCwgQ2zk2p8txeXmGnzHzHNA",
+   "duration": 990,
+   "view_count": 64,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=SryU_cDUIv4"
+  },
+  {
+   "id": "kKJiT0fBPvM",
+   "title": "Neuroscientist Explains: How Pornography Affects Your Brain & Focus",
+   "channel": "Dr. Trish Leigh",
+   "channel_id": "UC2UjsmTlsL1IhqiRt2oKvXA",
+   "duration": 778,
+   "view_count": 150000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=kKJiT0fBPvM"
+  },
+  {
+   "id": "D_KSR3S6W8I",
+   "title": "Make 2027 the Best Year of Your Life (Evidence-Based)",
+   "channel": "Ali Abdaal",
+   "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
+   "duration": 1302,
+   "view_count": 666000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=D_KSR3S6W8I"
+  },
+  {
+   "id": "I-xkp0wP7w4",
+   "title": "My 25 Favorite Desk Accessories (Desk Setup Upgrades)",
+   "channel": "Mike O'Brien",
+   "channel_id": "UCZZ4ivUawsXRktLKej8d6Xw",
+   "duration": 1188,
+   "view_count": 1500000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=I-xkp0wP7w4"
+  },
+  {
+   "id": "1ps0SOVIX5M",
+   "title": "Teach Yourself Anything So Well It Feels Unfair",
+   "channel": "Psycuro",
+   "channel_id": "UC0zR5S-9-ktm0QytGm_y4iA",
+   "duration": 805,
+   "view_count": 788000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=1ps0SOVIX5M"
+  },
+  {
+   "id": "LBDLKRbKVkc",
+   "title": "Every Folder on Your Phone Explained in 12 Minutes",
+   "channel": "All of Them",
+   "channel_id": "UCd-vISuWc5QHePCGrUrz5Dg",
+   "duration": 715,
+   "view_count": 77000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=LBDLKRbKVkc"
+  },
+  {
+   "id": "wUrtcsDTDek",
+   "title": "How to never procrastinate",
+   "channel": "Henry Grey Earls",
+   "channel_id": "UCk1ibQ3LPeKzjJEMnkYKW1A",
+   "duration": 213,
+   "view_count": 3100000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=wUrtcsDTDek"
+  },
+  {
+   "id": "_aRJJNzgGUM",
+   "title": "I Keep Quitting To-Do Apps. This ADHD System Survived.",
+   "channel": "Sher Talks",
+   "channel_id": "UCMz9EaLXN6CZecY_aQHUJwg",
+   "duration": 565,
+   "view_count": 81000,
+   "views": null,
+   "age": null,
+   "url": "https://www.youtube.com/watch?v=_aRJJNzgGUM"
+  },
   {
    "id": "jvYii1NveUs",
    "title": "how to manage time so well people think you have 50 hours in a day",
    "channel": "NPC Remko",
    "channel_id": "UCFg7DxeEVFRuBPd7OZlUihA",
    "duration": 419,
-   "view_count": 275000,
+   "view_count": 364000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=jvYii1NveUs"
@@ -22,7 +330,7 @@
    "channel": "Wojak Wisdom",
    "channel_id": "UC0ARgUi7QAN6KsuIHSAfNQw",
    "duration": 162,
-   "view_count": 1100000,
+   "view_count": 1300000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=rDvnDZoqeUQ"
@@ -33,7 +341,7 @@
    "channel": "Coding2GO",
    "channel_id": "UCGpoeEhUBQBaaKZ_a8HB67Q",
    "duration": 738,
-   "view_count": 17000,
+   "view_count": 18000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=7f4k-5tALqY"
@@ -44,7 +352,7 @@
    "channel": "PsychDoodle",
    "channel_id": "UCWIfdhqsfXOGjJeBnXaBVUA",
    "duration": 870,
-   "view_count": 195000,
+   "view_count": 225000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=SeCZiVkVuuE"
@@ -55,7 +363,7 @@
    "channel": null,
    "channel_id": null,
    "duration": 50571,
-   "view_count": 624000,
+   "view_count": 627000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=bWACo_pvKxg"
@@ -88,7 +396,7 @@
    "channel": null,
    "channel_id": null,
    "duration": 10589,
-   "view_count": 140000,
+   "view_count": 141000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=EsUL2bfKKLc"
@@ -99,7 +407,7 @@
    "channel": null,
    "channel_id": null,
    "duration": 8879,
-   "view_count": 61000,
+   "view_count": 62000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=jn5MRu5ybH4"
@@ -165,7 +473,7 @@
    "channel": "Jesse Showalter",
    "channel_id": "UCvBGFeXbBrq3W9_0oNLJREQ",
    "duration": 1120,
-   "view_count": 16000,
+   "view_count": 17000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=x20QeqQOCpk"
@@ -209,7 +517,7 @@
    "channel": "Tech With Tim",
    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
    "duration": 1419,
-   "view_count": 90000,
+   "view_count": 92000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=SM17ps6-gAY"
@@ -231,7 +539,7 @@
    "channel": "Tech With Tim",
    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
    "duration": 695,
-   "view_count": 105000,
+   "view_count": 111000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=vLlIBT0HSSc"
@@ -242,21 +550,10 @@
    "channel": null,
    "channel_id": null,
    "duration": 57473,
-   "view_count": 40000,
+   "view_count": 41000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=pdk60AyhMNM"
-  },
-  {
-   "id": "F9gB5b4jgOI",
-   "title": "MERN Stack Tutorial for Beginners with Deployment – 2025",
-   "channel": "freeCodeCamp.org",
-   "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
-   "duration": 12895,
-   "view_count": 1000000,
-   "views": null,
-   "age": null,
-   "url": "https://www.youtube.com/watch?v=F9gB5b4jgOI"
   },
   {
    "id": "el5bTI6GBQ8",
@@ -264,7 +561,7 @@
    "channel": "Step by Step",
    "channel_id": "UCYSd3dDrcafIwGppPbSkq8w",
    "duration": 105701,
-   "view_count": 75000,
+   "view_count": 76000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=el5bTI6GBQ8"
@@ -275,7 +572,7 @@
    "channel": "Financial Historian",
    "channel_id": "UCZ7keJV8Gj-6UbGgkOKs4uw",
    "duration": 750,
-   "view_count": 829000,
+   "view_count": 832000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=yx3iE0LuxbI"
@@ -297,7 +594,7 @@
    "channel": "Chill Dude Explains",
    "channel_id": "UCYwOOHF1BZ_hqPVnLnrT_fw",
    "duration": 688,
-   "view_count": 385000,
+   "view_count": 389000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=Tr4Jyq0pCY4"
@@ -308,7 +605,7 @@
    "channel": "Sandeep Swadia",
    "channel_id": "UC4ZVkG3RQPzvZk7alIVjcCg",
    "duration": 1024,
-   "view_count": 1800000,
+   "view_count": 1900000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=5mfwXuS06Ok"
@@ -319,7 +616,7 @@
    "channel": "GeeksforGeeks",
    "channel_id": "UC0RhatS1pyxInC00YKjjBqQ",
    "duration": 222,
-   "view_count": 24000,
+   "view_count": 25000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=kL12Fhj-NEo"
@@ -330,7 +627,7 @@
    "channel": "Tech With Tim",
    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
    "duration": 1806,
-   "view_count": 81000,
+   "view_count": 82000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=UQ9PbbPNvnc"
@@ -341,7 +638,7 @@
    "channel": "freeCodeCamp.org",
    "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
    "duration": 4897,
-   "view_count": 244000,
+   "view_count": 252000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=7l6bXLAKyEI"
@@ -374,7 +671,7 @@
    "channel": "Tech With Tim",
    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
    "duration": 1294,
-   "view_count": 511000,
+   "view_count": 517000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=ZvDkJsKE80k"
@@ -385,7 +682,7 @@
    "channel": "Tech With Tim",
    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
    "duration": 4803,
-   "view_count": 41000,
+   "view_count": 42000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=zFw19qGAeGo"
@@ -396,7 +693,7 @@
    "channel": "Tech With Tim",
    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
    "duration": 2097,
-   "view_count": 149000,
+   "view_count": 151000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=ZXkeWiWB4xg"
@@ -407,7 +704,7 @@
    "channel": "Tech With Tim",
    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
    "duration": 3561,
-   "view_count": 192000,
+   "view_count": 195000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=mTYxpIRK7xA"
@@ -418,7 +715,7 @@
    "channel": "Tina Huang",
    "channel_id": "UC2UXDak6o7rBm23k3Vv5dww",
    "duration": 1780,
-   "view_count": 853000,
+   "view_count": 879000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=5_N84t1rUU0"
@@ -451,7 +748,7 @@
    "channel": "Money Talks With Nikhil",
    "channel_id": "UCO3SGOyrUGuJG7OIsHZafFw",
    "duration": 611,
-   "view_count": 33000,
+   "view_count": 34000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=eWDi6aOn5CU"
@@ -473,7 +770,7 @@
    "channel": "CodeWithHarry",
    "channel_id": "UCeVMnSShP_Iviwkknt83cww",
    "duration": 9092,
-   "view_count": 1600000,
+   "view_count": 1700000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=AB3J8ufDYHQ"
@@ -484,7 +781,7 @@
    "channel": "MediaoneTV Live",
    "channel_id": "UC-f7r46JhYv78q5pGrO6ivA",
    "duration": 867,
-   "view_count": 28000,
+   "view_count": 29000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=a8wTvHWOt8s"
@@ -561,7 +858,7 @@
    "channel": "Umar Jamil",
    "channel_id": "UCtAcpQcYerN8xxZJYTfWBMw",
    "duration": 3484,
-   "view_count": 810000,
+   "view_count": 816000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=bCz4OMemCcA"
@@ -572,7 +869,7 @@
    "channel": null,
    "channel_id": null,
    "duration": 28473,
-   "view_count": 917000,
+   "view_count": 919000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=EfAl9bwzVZk"
@@ -583,7 +880,7 @@
    "channel": "freeCodeCamp.org",
    "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
    "duration": 2720,
-   "view_count": 109000,
+   "view_count": 111000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=mABpAI-pCw0"
@@ -616,7 +913,7 @@
    "channel": "Luca Sacchetto",
    "channel_id": "UCBiek3RzY720SzEoaZvoXug",
    "duration": 398,
-   "view_count": 36000,
+   "view_count": 37000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=GTthhCuXIAo"
@@ -627,7 +924,7 @@
    "channel": "Safari",
    "channel_id": "UCfyulcK9tP84epquAb460UQ",
    "duration": 1323,
-   "view_count": 985000,
+   "view_count": 987000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=1WnqjrFpRLY"
@@ -638,7 +935,7 @@
    "channel": null,
    "channel_id": null,
    "duration": 26781,
-   "view_count": 903000,
+   "view_count": 910000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=1aR7tcmWo_w"
@@ -649,7 +946,7 @@
    "channel": "Hussein Nasser",
    "channel_id": "UC_ML5xP23TOWKUcc-oAE_Eg",
    "duration": 1600,
-   "view_count": 732000,
+   "view_count": 736000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=V3ZPPPKEipA"
@@ -671,7 +968,7 @@
    "channel": "Lewis Howes",
    "channel_id": "UCKsP3v2JeT2hWI_HzkxWiMA",
    "duration": 5718,
-   "view_count": 912000,
+   "view_count": 913000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=DgNzZsGZ96Q"
@@ -682,7 +979,7 @@
    "channel": "Volka English",
    "channel_id": "UCcvjK35lDPZTlkIrrwxpepg",
    "duration": 335,
-   "view_count": 7600000,
+   "view_count": 7700000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=bo47JoSxl1s"
@@ -704,7 +1001,7 @@
    "channel": "Techno Tim",
    "channel_id": "UCOk-gHyjcWZNj3Br4oxwh0A",
    "duration": 2100,
-   "view_count": 638000,
+   "view_count": 648000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=efl2kuPNEpE"
@@ -715,7 +1012,7 @@
    "channel": "ThisIsE",
    "channel_id": "UCKJgBJcJkc0Q4kZeGIyNTYA",
    "duration": 799,
-   "view_count": 916000,
+   "view_count": 930000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=exadT2xUF00"
@@ -726,7 +1023,7 @@
    "channel": "Tech With Tim",
    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
    "duration": 817,
-   "view_count": 98000,
+   "view_count": 102000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=S5tOMUCvPFA"
@@ -770,7 +1067,7 @@
    "channel": null,
    "channel_id": null,
    "duration": 487,
-   "view_count": 908000,
+   "view_count": 923000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=1sOgYNgq88E"
@@ -792,7 +1089,7 @@
    "channel": "Coding2GO",
    "channel_id": "UCGpoeEhUBQBaaKZ_a8HB67Q",
    "duration": 308,
-   "view_count": 87000,
+   "view_count": 88000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=Ol62e-dWu0E"
@@ -803,7 +1100,7 @@
    "channel": "Coding2GO",
    "channel_id": "UCGpoeEhUBQBaaKZ_a8HB67Q",
    "duration": 346,
-   "view_count": 225000,
+   "view_count": 226000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=XH1G58QqPIM"
@@ -836,7 +1133,7 @@
    "channel": null,
    "channel_id": null,
    "duration": 1756,
-   "view_count": 105000,
+   "view_count": 107000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=hwz7Sjk1A-k"
@@ -847,7 +1144,7 @@
    "channel": "Coding2GO",
    "channel_id": "UCGpoeEhUBQBaaKZ_a8HB67Q",
    "duration": 579,
-   "view_count": 578000,
+   "view_count": 580000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=2IV08sP9m3U"
@@ -880,7 +1177,7 @@
    "channel": "Sajid",
    "channel_id": "UCjWhpxUc0R1yQTK360nZNqw",
    "duration": 1051,
-   "view_count": 251000,
+   "view_count": 252000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=l04dDYW-QaI"
@@ -968,7 +1265,7 @@
    "channel": "Learn Coding",
    "channel_id": "UCV7cZwHMX_0vk8DSYrS7GCg",
    "duration": 473,
-   "view_count": 63000,
+   "view_count": 64000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=AwOCJzcq-vw"
@@ -979,7 +1276,7 @@
    "channel": "Dan Koe",
    "channel_id": "UCWXYDYv5STLk-zoxMP2I1Lw",
    "duration": 1571,
-   "view_count": 231000,
+   "view_count": 232000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=3rNqNvwNcrM"
@@ -1001,7 +1298,7 @@
    "channel": "HTX Studio",
    "channel_id": "UCwffSP9kO8pMZVr1Ugqvbzw",
    "duration": 613,
-   "view_count": 552000,
+   "view_count": 558000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=kDsMRK9KAv8"
@@ -1012,7 +1309,7 @@
    "channel": "Works By Design",
    "channel_id": "UC0G7e3uCtTyKQy2vZbRaKxg",
    "duration": 1617,
-   "view_count": 9000000,
+   "view_count": 9100000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=-qUu8kIliy8"
@@ -1045,7 +1342,7 @@
    "channel": "Arteri",
    "channel_id": "UCcBZIvKbIgXGRjn9j2P6lOw",
    "duration": 584,
-   "view_count": 364000,
+   "view_count": 365000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=HqyYZsH2BEY"
@@ -1056,7 +1353,7 @@
    "channel": "Pursuit of Wonder",
    "channel_id": "UC-tLyAaPbRZiYrOJxAGB7dQ",
    "duration": 917,
-   "view_count": 952000,
+   "view_count": 954000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=gxglts0Sw5I"
@@ -1067,7 +1364,7 @@
    "channel": "EverythingProfessor",
    "channel_id": "UCbrSe4uBIeqJweOYnJAOsrw",
    "duration": 3192,
-   "view_count": 863000,
+   "view_count": 872000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=LU8LqOXtDHA"
@@ -1078,7 +1375,7 @@
    "channel": "riskambition",
    "channel_id": "UC_Ux-HI6UghwJ5Dceyf7D0Q",
    "duration": 490,
-   "view_count": 620000,
+   "view_count": 622000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=18Nh2H0RwLM"
@@ -1089,7 +1386,7 @@
    "channel": "Pursuit of Wonder",
    "channel_id": "UC-tLyAaPbRZiYrOJxAGB7dQ",
    "duration": 1067,
-   "view_count": 2700000,
+   "view_count": 2800000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=ivfw_TcsHbw"
@@ -1188,7 +1485,7 @@
    "channel": "My First Million",
    "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
    "duration": 5399,
-   "view_count": 124000,
+   "view_count": 125000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=7D_AGAb_A-4"
@@ -1199,7 +1496,7 @@
    "channel": "Cole Hastings",
    "channel_id": "UCwQnoax3HWID1WOzZ4mqLPQ",
    "duration": 784,
-   "view_count": 1400000,
+   "view_count": 1500000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=RsGDW2HqMjI"
@@ -1232,7 +1529,7 @@
    "channel": "Pink Podcast",
    "channel_id": "UC0tgH2MqFVroFQuBj1CfknA",
    "duration": 2243,
-   "view_count": 256000,
+   "view_count": 257000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=2Tn117k0hkE"
@@ -1243,7 +1540,7 @@
    "channel": "AI Samson",
    "channel_id": "UCED3hlYdD0SlCff7jJ8tF3Q",
    "duration": 1201,
-   "view_count": 364000,
+   "view_count": 365000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=WiyfuQ-RDx4"
@@ -1254,7 +1551,7 @@
    "channel": "Pink Podcast",
    "channel_id": "UC0tgH2MqFVroFQuBj1CfknA",
    "duration": 3620,
-   "view_count": 575000,
+   "view_count": 577000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=oQa1MTCrfTw"
@@ -1276,7 +1573,7 @@
    "channel": null,
    "channel_id": null,
    "duration": 431,
-   "view_count": 701000,
+   "view_count": 706000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=btWlBHE0pe4"
@@ -1309,7 +1606,7 @@
    "channel": "Iman Gadzhi",
    "channel_id": "UCQ4FNww3XoNgqIlkBqEAVCg",
    "duration": 1177,
-   "view_count": 240000,
+   "view_count": 241000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=OImjfwCujYo"
@@ -1331,7 +1628,7 @@
    "channel": "Dan Martell",
    "channel_id": "UCA-mWX9CvCTVFWRMb9bKc9w",
    "duration": 904,
-   "view_count": 392000,
+   "view_count": 393000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=jffXuIy-iVs"
@@ -1342,7 +1639,7 @@
    "channel": null,
    "channel_id": null,
    "duration": 241,
-   "view_count": 301000,
+   "view_count": 302000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=nzOdAVgyi0U"
@@ -1353,7 +1650,7 @@
    "channel": "Afi Cherian",
    "channel_id": "UCik7zVaVeU19Hn-uon-1Gbg",
    "duration": 1164,
-   "view_count": 85000,
+   "view_count": 87000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=1TmO6gS1a5A"
@@ -1386,7 +1683,7 @@
    "channel": "Him-eesh Madaan",
    "channel_id": "UCZQDF0x18Xe6RZayvod99zA",
    "duration": 1301,
-   "view_count": 584000,
+   "view_count": 587000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=Ei-Gi2zVV1A"
@@ -1430,7 +1727,7 @@
    "channel": "Cam Casey",
    "channel_id": "UCv8w8CbZO09n0bY6g89ekbA",
    "duration": 1481,
-   "view_count": 215000,
+   "view_count": 216000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=TyVQ4yiTX7g"
@@ -1441,7 +1738,7 @@
    "channel": "Doug Vargo",
    "channel_id": "UCQxK5A2gA5iZvb0Ky5i1leg",
    "duration": 677,
-   "view_count": 610000,
+   "view_count": 618000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=7WnJVJH2KYc"
@@ -1452,7 +1749,7 @@
    "channel": "Nissaaram!",
    "channel_id": "UCzWODKbWNo3Xu3-r8E8Vafg",
    "duration": 1315,
-   "view_count": 475000,
+   "view_count": 477000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=2B6_lv6Qnps"
@@ -1463,7 +1760,7 @@
    "channel": "Dr Thomas Smithyman ",
    "channel_id": "UCnbCIpMq4UH4T7V7RRKVuZQ",
    "duration": 853,
-   "view_count": 409000,
+   "view_count": 410000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=D0rpiKYF3Os"
@@ -1474,7 +1771,7 @@
    "channel": "THE GRIM",
    "channel_id": "UC5eAFEk3psF0mIDtKVsdl4Q",
    "duration": 182,
-   "view_count": 669000,
+   "view_count": 670000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=xW3WaQzxE14"
@@ -1485,7 +1782,7 @@
    "channel": "Mark Manson",
    "channel_id": "UC0TnW9acNxqeojxXDMbohcA",
    "duration": 1005,
-   "view_count": 5100000,
+   "view_count": 5300000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=KJ2Lvi9kG2Q"
@@ -1507,7 +1804,7 @@
    "channel": "Sandeep Swadia",
    "channel_id": "UC4ZVkG3RQPzvZk7alIVjcCg",
    "duration": 1370,
-   "view_count": 1400000,
+   "view_count": 1500000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=KEqmJ8pw1_4"
@@ -1518,7 +1815,7 @@
    "channel": "Gooms Podcast",
    "channel_id": "UCbcNBiXiCNWzcWXInLCLt-Q",
    "duration": 6055,
-   "view_count": 118000,
+   "view_count": 120000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=yPNbIDCiMC4"
@@ -1529,7 +1826,7 @@
    "channel": "The Diary Of A CEO and HealthyGamerGG",
    "channel_id": null,
    "duration": 8718,
-   "view_count": 1000000,
+   "view_count": 1100000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=8LjNUabIJOk"
@@ -1562,7 +1859,7 @@
    "channel": "Big Think",
    "channel_id": "UCvQECJukTDE2i6aCoMnS-Vg",
    "duration": 5159,
-   "view_count": 335000,
+   "view_count": 338000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=qnHvFKoThP8"
@@ -1573,7 +1870,7 @@
    "channel": "Cinemagic",
    "channel_id": "UCZcPrTIT-wTAmmAeVI5j4nA",
    "duration": 1260,
-   "view_count": 266000,
+   "view_count": 267000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=mw26kieapzY"
@@ -1606,7 +1903,7 @@
    "channel": "Chase Hughes",
    "channel_id": "UCUBj_5pwQZaoXfBrEQQbADw",
    "duration": 569,
-   "view_count": 365000,
+   "view_count": 367000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=RbQfgBa9eNM"
@@ -1661,7 +1958,7 @@
    "channel": "Olly Staniland",
    "channel_id": "UCmQQNAg7qY8ZASYJqYe9Fzg",
    "duration": 449,
-   "view_count": 58000,
+   "view_count": 59000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=jI90ZPK6fsY"
@@ -1705,7 +2002,7 @@
    "channel": "Matt Huang",
    "channel_id": "UCdGuT4qRHJaB-gf9AVlssaw",
    "duration": 976,
-   "view_count": 421000,
+   "view_count": 423000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=S06kZncFU_w"
@@ -1738,7 +2035,7 @@
    "channel": "Huberman Lab Clips",
    "channel_id": "UCkZjTZNvuxq1CYMS3cwZa1Q",
    "duration": 543,
-   "view_count": 928000,
+   "view_count": 933000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=T4dser6ssp0"
@@ -1760,7 +2057,7 @@
    "channel": "Roz Lyn",
    "channel_id": "UCT7GUwt7bCIQp0N-pBbp3pg",
    "duration": 567,
-   "view_count": 497000,
+   "view_count": 498000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=wbrvDxFRaAI"
@@ -1837,7 +2134,7 @@
    "channel": "Nextcore",
    "channel_id": "UCM8ZFySd8MjFHmqOI8lOpGA",
    "duration": 177,
-   "view_count": 404000,
+   "view_count": 405000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=oHmFkxP_mNI"
@@ -1859,7 +2156,7 @@
    "channel": "Modern Ideas",
    "channel_id": "UCX6vy_0zf5FO0wyXZhS26_A",
    "duration": 712,
-   "view_count": 4300000,
+   "view_count": 4400000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=V_Z8XoPVDBg"
@@ -1881,7 +2178,7 @@
    "channel": "The PrimeTime",
    "channel_id": "UCUyeluBRhGPCW4rPe_UvBZQ",
    "duration": 557,
-   "view_count": 565000,
+   "view_count": 566000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=tKHEEC-CBYY"
@@ -1892,7 +2189,7 @@
    "channel": "GitHub",
    "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
    "duration": 542,
-   "view_count": 190000,
+   "view_count": 191000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=LAF-lACf2QY"
@@ -1925,7 +2222,7 @@
    "channel": "Starter Story",
    "channel_id": "UChhw6DlKKTQ9mYSpTfXUYqA",
    "duration": 1468,
-   "view_count": 582000,
+   "view_count": 585000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=L_FY6aW9cJ4"
@@ -1947,7 +2244,7 @@
    "channel": "Justin Sung",
    "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
    "duration": 899,
-   "view_count": 92000,
+   "view_count": 93000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=B_UT4VJRDVs"
@@ -1958,7 +2255,7 @@
    "channel": "jayhoovy",
    "channel_id": "UC9wO9GOGNPYywz3H20VGH1A",
    "duration": 888,
-   "view_count": 860000,
+   "view_count": 868000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=5BesUAyNvFY"
@@ -1969,7 +2266,7 @@
    "channel": "Hisham",
    "channel_id": "UCEM7lyqDoM7QWYvE66ors-A",
    "duration": 1154,
-   "view_count": 20000,
+   "view_count": 21000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=MF-_E5ndov0"
@@ -2013,7 +2310,7 @@
    "channel": "Dylan Reynolds",
    "channel_id": "UCPmfjDsM0ZUrp7bJx13f1jg",
    "duration": 662,
-   "view_count": 543000,
+   "view_count": 549000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=O0qkkexHqZw"
@@ -2035,7 +2332,7 @@
    "channel": "Ali Abdaal",
    "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
    "duration": 9614,
-   "view_count": 431000,
+   "view_count": 432000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=f7IECetqDLY"
@@ -2046,7 +2343,7 @@
    "channel": "Full Disclosure",
    "channel_id": "UCf_XYgupvdx7rA44Ap3uI5w",
    "duration": 1236,
-   "view_count": 145000,
+   "view_count": 146000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=YYp2qtk5UVo"
@@ -2068,7 +2365,7 @@
    "channel": "Alex Hormozi",
    "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
    "duration": 1622,
-   "view_count": 994000,
+   "view_count": 998000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=i7bLRKwKSms"
@@ -2090,7 +2387,7 @@
    "channel": "Dan Koe",
    "channel_id": "UCWXYDYv5STLk-zoxMP2I1Lw",
    "duration": 1130,
-   "view_count": 215000,
+   "view_count": 216000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=VztPAofKWvg"
@@ -2112,7 +2409,7 @@
    "channel": "Dr Karan",
    "channel_id": "UCc-Yj3lMj3s_n1tqcGIzQ6g",
    "duration": 1013,
-   "view_count": 475000,
+   "view_count": 476000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=py4rXIlQChI"
@@ -2123,7 +2420,7 @@
    "channel": "Robert Greene ",
    "channel_id": "UC-qsP49Ai2GymJgyKX38l1w",
    "duration": 310,
-   "view_count": 218000,
+   "view_count": 220000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=UofwAqm65Us"
@@ -2145,7 +2442,7 @@
    "channel": "Sh. Abdullah Oduro",
    "channel_id": "UC521n9KLHPp9LYEgm9kii_g",
    "duration": 1511,
-   "view_count": 924000,
+   "view_count": 929000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=MMCd6P-IZ-Y"
@@ -2156,7 +2453,7 @@
    "channel": "ThioJoe",
    "channel_id": "UCQSpnDG3YsFNf5-qHocF-WQ",
    "duration": 602,
-   "view_count": 339000,
+   "view_count": 343000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=o0LdeUnjFr4"
@@ -2200,7 +2497,7 @@
    "channel": "Mark Manson",
    "channel_id": "UC0TnW9acNxqeojxXDMbohcA",
    "duration": 16744,
-   "view_count": 310000,
+   "view_count": 312000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=b77XuGU52To"
@@ -2211,7 +2508,7 @@
    "channel": "Feel Good With Ali",
    "channel_id": "UCy_N1G9SAXCE3CBWMNdcNDQ",
    "duration": 765,
-   "view_count": 638000,
+   "view_count": 645000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=1-fKh44l2VA"
@@ -2233,7 +2530,7 @@
    "channel": "The Home Worker",
    "channel_id": "UCHyGbU8lLSX4KRENGOKE6tg",
    "duration": 646,
-   "view_count": 877,
+   "view_count": 878,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=ZLwCe0jxsrk"
@@ -2310,7 +2607,7 @@
    "channel": "JulienHimself",
    "channel_id": "UCaN4Pe5JEsWzAByY2WfxxjQ",
    "duration": 1332,
-   "view_count": 592000,
+   "view_count": 593000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=5-AoFVwbWew"
@@ -2354,7 +2651,7 @@
    "channel": "FitMind",
    "channel_id": "UC8_eJSJPnsMlfk0Sr4DreNA",
    "duration": 603,
-   "view_count": 2300000,
+   "view_count": 2400000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=A3svaOilIis"
@@ -2398,7 +2695,7 @@
    "channel": "Dr Sid Warrier",
    "channel_id": "UCR_Tzu1r5M9uoNB3CF4Zg3g",
    "duration": 517,
-   "view_count": 588000,
+   "view_count": 590000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=HBR1yemoDCs"
@@ -2409,7 +2706,7 @@
    "channel": "Philipp Humm",
    "channel_id": "UCKjyzU_ElNwSXr4b0UzUjdw",
    "duration": 539,
-   "view_count": 3700000,
+   "view_count": 3800000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=hNuAv-42jzY"
@@ -2464,7 +2761,7 @@
    "channel": "Alex Hormozi",
    "channel_id": "UCUyDOdBWhC1MCxEjC46d-zw",
    "duration": 1663,
-   "view_count": 288000,
+   "view_count": 289000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=aUnorufFIq8"
@@ -2486,7 +2783,7 @@
    "channel": "Blank Rascal",
    "channel_id": "UCMic2E-bKFOzFbogbt2IrMA",
    "duration": 975,
-   "view_count": 1900000,
+   "view_count": 2000000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=PLJU5nC3pmU"
@@ -2515,11 +2812,11 @@
   },
   {
    "id": "Fi4zbcRG4Ww",
-   "title": "If You're Ambitious but Lazy, Watch This (You're Not Actually Lazy)",
+   "title": "Ambitious but Lazy? Why You Want the Goal but Hate the Work",
    "channel": "Mark Manson",
    "channel_id": "UC0TnW9acNxqeojxXDMbohcA",
    "duration": 758,
-   "view_count": 743000,
+   "view_count": 744000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=Fi4zbcRG4Ww"
@@ -2541,7 +2838,7 @@
    "channel": "Movavi Vlog: Editing tips to show the real you",
    "channel_id": "UCCv2d4YxZ4vrFuZou0W9L4A",
    "duration": 459,
-   "view_count": 5100,
+   "view_count": 5200,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=BQpRsxE6tJU"
@@ -2552,7 +2849,7 @@
    "channel": "Jeremy Fielding",
    "channel_id": "UC_SLthyNX_ivd-dmsFgmJVg",
    "duration": 1888,
-   "view_count": 532000,
+   "view_count": 533000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=ZXRSt3asv0w"
@@ -2574,7 +2871,7 @@
    "channel": "Caleb Ralston",
    "channel_id": "UCbc7A6bNtpyybJbGvIi0PNQ",
    "duration": 22948,
-   "view_count": 1800000,
+   "view_count": 1900000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=Ch4Sl0POBhU"
@@ -2585,7 +2882,7 @@
    "channel": "Zoomology",
    "channel_id": "UCGMndG_WdoQZEb1KD3UnVdA",
    "duration": 384,
-   "view_count": 1800000,
+   "view_count": 1900000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=Uze4Y6_Pjc0"
@@ -2607,7 +2904,7 @@
    "channel": "Zoomology",
    "channel_id": "UCGMndG_WdoQZEb1KD3UnVdA",
    "duration": 354,
-   "view_count": 113000,
+   "view_count": 114000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=3xcDbS5S_6Q"
@@ -2651,7 +2948,7 @@
    "channel": "HowToMen",
    "channel_id": "UCqjVP9gAanUGFgTA5BRDvyA",
    "duration": 1147,
-   "view_count": 450000,
+   "view_count": 452000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=hGsPpd0uIco"
@@ -2684,7 +2981,7 @@
    "channel": "Ali Abdaal",
    "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
    "duration": 1687,
-   "view_count": 958000,
+   "view_count": 960000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=X_XNSeW9jok"
@@ -2706,7 +3003,7 @@
    "channel": "Tube Sensei",
    "channel_id": "UCf3dc-Y3k5vBTCVpPCAfG6g",
    "duration": 2783,
-   "view_count": 910000,
+   "view_count": 912000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=LhkC1X6BfB0"
@@ -2794,7 +3091,7 @@
    "channel": "Tiago Forte",
    "channel_id": "UCmvYCRYPDlzSHVNCI_ViJDQ",
    "duration": 460,
-   "view_count": 39000,
+   "view_count": 40000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=dUpen07UZ4A"
@@ -2805,7 +3102,7 @@
    "channel": null,
    "channel_id": null,
    "duration": 2969,
-   "view_count": 329000,
+   "view_count": 330000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=vA5TTz6BXhY"
@@ -2816,7 +3113,7 @@
    "channel": "Tech With Tim",
    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
    "duration": 1348,
-   "view_count": 188000,
+   "view_count": 189000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=zGkVKix_CRU"
@@ -2838,7 +3135,7 @@
    "channel": "Tech With Tim",
    "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
    "duration": 1689,
-   "view_count": 627000,
+   "view_count": 634000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=E4l91XKQSgw"
@@ -2860,7 +3157,7 @@
    "channel": "Thomas Frank Explains",
    "channel_id": "UCd_WBvzBg1UbHE8j8MIL5Ng",
    "duration": 2410,
-   "view_count": 498000,
+   "view_count": 500000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=kQvAytutxsQ"
@@ -2981,7 +3278,7 @@
    "channel": "Robert Greene ",
    "channel_id": "UC-qsP49Ai2GymJgyKX38l1w",
    "duration": 333,
-   "view_count": 504000,
+   "view_count": 507000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=sLXA6xOJ6uo"
@@ -3036,7 +3333,7 @@
    "channel": "Ameen Omar",
    "channel_id": "UCHEyrLJlvsWM_-9XOGYu1pQ",
    "duration": 744,
-   "view_count": 4600,
+   "view_count": 4700,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=FnHRj3Gv-og"
@@ -3102,7 +3399,7 @@
    "channel": "Queen",
    "channel_id": "UCGjj4ULTpqgcM6knuBv9h6Q",
    "duration": 3326,
-   "view_count": 639000,
+   "view_count": 640000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=WXYSemugcqk"
@@ -3113,7 +3410,7 @@
    "channel": "Jeffrey Kaplan",
    "channel_id": "UC_hukbByJP7OZ3Xm2tszacQ",
    "duration": 1400,
-   "view_count": 3600000,
+   "view_count": 3700000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=uiNB-6SuqVA"
@@ -3124,7 +3421,7 @@
    "channel": "Tyson Liberto",
    "channel_id": "UCh5m8L08IblqKy0OEum9Akw",
    "duration": 491,
-   "view_count": 790000,
+   "view_count": 791000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=tOignQfgyiY"
@@ -3135,7 +3432,7 @@
    "channel": "Greatest AudioBooks",
    "channel_id": "UCf099SXtegD4kv9-M3GIgnw",
    "duration": 19000,
-   "view_count": 46000,
+   "view_count": 47000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=6pPwB1rTJts"
@@ -3168,7 +3465,7 @@
    "channel": "Your Inner Guide",
    "channel_id": "UCIq3h8ijNSBId8rLgwcR53A",
    "duration": 985,
-   "view_count": 829000,
+   "view_count": 837000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=f4tQl_DZelk"
@@ -3300,7 +3597,7 @@
    "channel": "Justin Sung",
    "channel_id": "UC2Zs9v2hL2qZZ7vsAENsg4w",
    "duration": 249,
-   "view_count": 336000,
+   "view_count": 338000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=ebgl_3MlXM8"
@@ -3311,7 +3608,7 @@
    "channel": "alexvnty",
    "channel_id": "UCl042h4aZ_DU6ogUpVn3Hww",
    "duration": 458,
-   "view_count": 261000,
+   "view_count": 262000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=wY7o6iVYfC4"
@@ -3333,7 +3630,7 @@
    "channel": "Better Ideas",
    "channel_id": "UCtUId5WFnN82GdDy7DgaQ7w",
    "duration": 605,
-   "view_count": 558000,
+   "view_count": 559000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=cAdcaLIALiU"
@@ -3410,7 +3707,7 @@
    "channel": "janapasabi",
    "channel_id": "UCHsm_sh3xhvVzH6aoDQJF2A",
    "duration": 388,
-   "view_count": 710000,
+   "view_count": 712000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=xNfgRhOmtsk"
@@ -3443,7 +3740,7 @@
    "channel": "Tharun Speaks",
    "channel_id": "UCN9qzrsT8gYS2I3tbYVKfcA",
    "duration": 587,
-   "view_count": 527000,
+   "view_count": 528000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=zKobUb3NHSg"
@@ -3542,7 +3839,7 @@
    "channel": "Zendicay",
    "channel_id": "UCosoZ1gg8hRtQ6hEEY_us9w",
    "duration": 1169,
-   "view_count": 15000,
+   "view_count": 16000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=VF9ZjH7F0fQ"
@@ -3685,7 +3982,7 @@
    "channel": "Ramiroy",
    "channel_id": "UCNO2SLlEO7OsKo3B9kdz_rQ",
    "duration": 1380,
-   "view_count": 768000,
+   "view_count": 775000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=H6zLTIaTrMQ"
@@ -3696,7 +3993,7 @@
    "channel": "Better Ideas",
    "channel_id": "UCtUId5WFnN82GdDy7DgaQ7w",
    "duration": 938,
-   "view_count": 720000,
+   "view_count": 721000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=2jWN-pMTf3o"
@@ -3751,7 +4048,7 @@
    "channel": "On My Way Podcast",
    "channel_id": "UCnGMhVJRG-6J3JcsgepJt4w",
    "duration": 5295,
-   "view_count": 4400,
+   "view_count": 4500,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=pem_lBgEMOI"
@@ -3773,7 +4070,7 @@
    "channel": "LITTLE BIT BETTER",
    "channel_id": "UCmbF1cyNa6y7uNYiqYmSVJw",
    "duration": 691,
-   "view_count": 5000000,
+   "view_count": 5100000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=BLBRRNwMZNE"
@@ -3795,7 +4092,7 @@
    "channel": "Sell It",
    "channel_id": "UClgWErUooxWg0sZ084Tl0rg",
    "duration": 545,
-   "view_count": 190000,
+   "view_count": 192000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=IgzvKsjp6K0"
@@ -3861,7 +4158,7 @@
    "channel": "FarFromWeak",
    "channel_id": "UCCpZ1Y4WjNlbFlnQy7nkE_g",
    "duration": 509,
-   "view_count": 107000,
+   "view_count": 108000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=bEHXoIMcB0k"
@@ -3872,7 +4169,7 @@
    "channel": "easy, actually",
    "channel_id": "UCY6VZZo9MZCyIIozTs0khNA",
    "duration": 794,
-   "view_count": 220000,
+   "view_count": 221000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=5yiuG4_8ySY"
@@ -3883,7 +4180,7 @@
    "channel": "Full Disclosure",
    "channel_id": "UCf_XYgupvdx7rA44Ap3uI5w",
    "duration": 1261,
-   "view_count": 699000,
+   "view_count": 700000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=v3VCZLg9IAQ"
@@ -3894,7 +4191,7 @@
    "channel": "The Dark Needle",
    "channel_id": "UCBWXHMMzHUIFzRdl2fD8qXg",
    "duration": 681,
-   "view_count": 146000,
+   "view_count": 147000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=dv2v0faJSRk"
@@ -3971,7 +4268,7 @@
    "channel": "IncognitoCEO",
    "channel_id": "UC-JR8ZaTOCOGr1kOv9rfrmg",
    "duration": 2520,
-   "view_count": 251000,
+   "view_count": 252000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=spAgmT0Au1M"
@@ -3993,7 +4290,7 @@
    "channel": "The Dark Needle",
    "channel_id": "UCBWXHMMzHUIFzRdl2fD8qXg",
    "duration": 600,
-   "view_count": 798000,
+   "view_count": 802000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=9B7ddGyhaLA"
@@ -4037,7 +4334,7 @@
    "channel": "theblurb",
    "channel_id": "UC7Wd-h9fS1HQAPcGeJoOPeg",
    "duration": 229,
-   "view_count": 979000,
+   "view_count": 980000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=MbRC_bHmKxU"
@@ -4099,7 +4396,7 @@
   },
   {
    "id": "WONRS7BLh4g",
-   "title": "How To Actually Achieve Your Goals in 2026 (Evidence-Based)",
+   "title": "How To Actually Achieve Your Goals in 2027 (Evidence-Based)",
    "channel": "Ali Abdaal",
    "channel_id": "UCoOae5nYA7VqaXzerajD0lg",
    "duration": 886,
@@ -4114,7 +4411,7 @@
    "channel": "The Dark Needle",
    "channel_id": "UCBWXHMMzHUIFzRdl2fD8qXg",
    "duration": 672,
-   "view_count": 263000,
+   "view_count": 264000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=eJK-s1T0h0M"
@@ -4147,7 +4444,7 @@
    "channel": "The Dark Needle",
    "channel_id": "UCBWXHMMzHUIFzRdl2fD8qXg",
    "duration": 758,
-   "view_count": 589000,
+   "view_count": 590000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=-XEta18Ogt8"
@@ -4158,7 +4455,7 @@
    "channel": "Rian Doris",
    "channel_id": "UCftSbpEaMtTWcaFnvjwCvXw",
    "duration": 2664,
-   "view_count": 691000,
+   "view_count": 692000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=aoB2CiFNGdc"
@@ -4169,7 +4466,7 @@
    "channel": "Exactly What to Say",
    "channel_id": "UC9iY89AU_c5apJo0bcIbOQg",
    "duration": 765,
-   "view_count": 153000,
+   "view_count": 154000,
    "views": null,
    "age": null,
    "url": "https://www.youtube.com/watch?v=65jGzi-uKpM"
