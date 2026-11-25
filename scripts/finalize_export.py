@@ -6,8 +6,9 @@ Liked videos are not exported.
 """
 
 import json, os, glob, datetime
+from pathlib import Path
 
-ROOT = os.environ.get("YT_ROOT", r"<repo>")
+ROOT = os.environ.get("YT_ROOT") or str(Path(__file__).resolve().parent.parent)
 RAW = os.path.join(ROOT, "raw")
 now = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
 

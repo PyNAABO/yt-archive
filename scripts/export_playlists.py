@@ -5,11 +5,12 @@ Cookies are NOT kept: regenerate with state2cookies.py, then delete cookies.txt.
 """
 
 import json, os, re, subprocess, sys, time
+from pathlib import Path
 
 # playlist titles contain Malayalam/Arabic; cp1252 consoles raise without this
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-ROOT = os.environ.get("YT_ROOT", r"<repo>")
+ROOT = os.environ.get("YT_ROOT") or str(Path(__file__).resolve().parent.parent)
 COOKIES = os.path.join(ROOT, "cookies.txt")
 RAW = os.path.join(ROOT, "raw")
 STATE = os.environ.get("YT_STATE") or r"C:\.playwright-mcp\yt_state.json"

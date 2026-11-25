@@ -31,7 +31,7 @@ snapshot, not a complete history.
 Same scripts as the parent folder, pointed at this one:
 
 ```powershell
-$env:YT_ROOT  = '<repo>\PESGOALS'
+$env:YT_ROOT  = (Get-Location).Path   # this folder
 $env:YT_STATE = 'C:\.playwright-mcp\yt_state_pesgoals.json'
 python ..\scripts\state2cookies.py
 python ..\scripts\export_playlists.py

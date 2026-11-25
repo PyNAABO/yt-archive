@@ -8,7 +8,7 @@
     .\refresh.ps1
 
     .EXAMPLE
-    .\refresh.ps1 -Root '<repo>\ne00sa'   # old account
+    .\refresh.ps1 -Root .\ne00sa   # old account
     .\refresh.ps1 -SkipPush                                                       # dry run
 #>
 param(
@@ -67,6 +67,10 @@ try {
 
     Remove-Item $cookies -ErrorAction SilentlyContinue
     Remove-Item (Join-Path $Root 'raw') -Recurse -Force -ErrorAction SilentlyContinue
+
+    # published repo: never commit personal identifiers (this repo is public)
+    $pii = git grep -n -i -E 'gmail\.com|C:\\Users\\' -- .
+    if ($LASTEXITCODE -eq 0) { throw "Personal identifiers found, nothing committed:`n$pii" }
 
     git add -A
     if (git status --porcelain) {

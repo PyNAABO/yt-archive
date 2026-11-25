@@ -42,7 +42,7 @@ The original pasted `.txt` files were merged in and deleted; everything they hel
 2. Point `YT_ROOT` at this folder — without it the scripts write to the root (the main account):
 
    ```powershell
-   $env:YT_ROOT = '<repo>\ne00sa'
+   $env:YT_ROOT = (Get-Location).Path   # this folder
    ```
 
 3. `python ..\scripts\state2cookies.py` -> writes `cookies.txt` (delete it afterwards).

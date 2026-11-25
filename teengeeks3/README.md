@@ -1,6 +1,6 @@
 # YouTube Account Export — @teengeeks3 (2026-11-21)
 
-Archive of the Google account **account**, YouTube channel **Teen Geeks 3**
+Archive of the Google account behind the YouTube channel **Teen Geeks 3**
 ([@teengeeks3](https://www.youtube.com/@teengeeks3)), extracted on 2026-11-21. The account was
 signed into the shared browser profile as `authuser=3`; this folder is its archive, as with
 [`../ne00sa/`](../ne00sa/README.md) and [`../PESGOALS/`](../PESGOALS/README.md).
@@ -45,7 +45,7 @@ are not part of this export.
 Same scripts as the parent folder, pointed at this one:
 
 ```powershell
-$env:YT_ROOT  = '<repo>\teengeeks3'
+$env:YT_ROOT  = (Get-Location).Path   # this folder
 $env:YT_STATE = 'C:\.playwright-mcp\yt_state_teengeeks3.json'
 python ..\scripts\state2cookies.py
 python ..\scripts\export_playlists.py

@@ -1,6 +1,7 @@
 import json, time, os, sys
+from pathlib import Path
 
-ROOT = os.environ.get("YT_ROOT", r"<repo>")
+ROOT = os.environ.get("YT_ROOT") or str(Path(__file__).resolve().parent.parent)
 SRC = os.environ.get("YT_STATE") or r"C:\.playwright-mcp\yt_state.json"
 OUT = os.path.join(ROOT, "cookies.txt")
 

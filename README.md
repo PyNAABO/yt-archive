@@ -44,17 +44,16 @@ It turns the saved browser session (`C:\.playwright-mcp\yt_state.json`) into `co
 every playlist into `raw/`, rebuilds `watch_later.json` and `playlists.json`, **refuses to commit** if
 Watch Later shrank by more than half, deletes the cookies and `raw/`, then commits and pushes.
 
-The individual steps, if you want them by hand:
+The individual steps, if you want them by hand (run from this folder):
 
 ```powershell
-$D = '<repo>'
-python "$D\scripts\state2cookies.py"     # writes cookies.txt here (delete it afterwards)
-python "$D\scripts\export_playlists.py"  # downloads every playlist into raw/
-python "$D\scripts\finalize_export.py"   # rebuilds watch_later / playlists
+python scripts\state2cookies.py     # writes cookies.txt here (delete it afterwards)
+python scripts\export_playlists.py  # downloads every playlist into raw/
+python scripts\finalize_export.py   # rebuilds watch_later / playlists
 ```
 
-To re-export the **old** account instead, add `-Root "$D\ne00sa"` to `refresh.ps1`, or set
-`$env:YT_ROOT = "$D\ne00sa"` before running the individual scripts.
+To re-export the **old** account instead, add `-Root .\ne00sa` to `refresh.ps1`, or set
+`$env:YT_ROOT = (Resolve-Path .\ne00sa).Path` before running the individual scripts.
 
 `export_playlists.py` reads the playlist ids from `playlists.json` in this folder, so an existing export
 is enough to drive a refresh. `subscriptions.json` is not regenerated — re-scrape `/feed/channels` and
